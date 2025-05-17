@@ -1,5 +1,6 @@
+// Footer.jsx
 import React, { useState, useEffect } from 'react';
-import { Link } from 'react-router-dom';
+import { Link, useNavigate } from 'react-router-dom';
 import {
   Facebook,
   Twitter,
@@ -26,6 +27,7 @@ import {
 
 const Footer = () => {
   const [isVisible, setIsVisible] = useState(false);
+  const navigate = useNavigate();
 
   const toggleVisibility = () => {
     setIsVisible(window.scrollY > 300);
@@ -33,6 +35,11 @@ const Footer = () => {
 
   const scrollToTop = () => {
     window.scrollTo({ top: 0, behavior: 'smooth' });
+  };
+
+  const handleLinkClick = (path) => {
+    navigate(path);
+    scrollToTop();
   };
 
   useEffect(() => {
@@ -48,7 +55,7 @@ const Footer = () => {
           {/* About Us */}
           <div className="space-y-4">
             <h3 className="text-lime-400 text-lg font-semibold flex items-center gap-2">
-             About Us <UserCircle size={18} /> 
+              About Us <UserCircle size={18} />
             </h3>
             <p className="text-sm">Build Smart. Build Fast. Build with Code Aura.</p>
             <div className="flex space-x-4">
@@ -67,28 +74,28 @@ const Footer = () => {
           {/* Quick Links */}
           <div>
             <h3 className="text-lime-400 text-lg font-semibold mb-4 flex items-center gap-2">
-             Quick Links <LinkIcon size={18} /> 
+              Quick Links <LinkIcon size={18} />
             </h3>
             <ul className="space-y-2">
-              <li className="flex items-center gap-2">
+              <li className="flex items-center gap-2 cursor-pointer hover:text-white" onClick={() => handleLinkClick('/')}>
                 <Home size={16} />
-                <Link to="/" className="hover:text-white">Home</Link>
+                Home
               </li>
-              <li className="flex items-center gap-2">
+              <li className="flex items-center gap-2 cursor-pointer hover:text-white" onClick={() => handleLinkClick('/aboutme')}>
                 <User size={16} />
-                <Link to="/aboutme" className="hover:text-white">About Us</Link>
+                About Us
               </li>
-              <li className="flex items-center gap-2">
+              <li className="flex items-center gap-2 cursor-pointer hover:text-white" onClick={() => handleLinkClick('/skills')}>
                 <Wrench size={16} />
-                <Link to="/skills" className="hover:text-white">Skills</Link>
+                Skills
               </li>
-              <li className="flex items-center gap-2">
+              <li className="flex items-center gap-2 cursor-pointer hover:text-white" onClick={() => handleLinkClick('/project')}>
                 <Folder size={16} />
-                <Link to="/project" className="hover:text-white">Projects</Link>
+                Projects
               </li>
-              <li className="flex items-center gap-2">
+              <li className="flex items-center gap-2 cursor-pointer hover:text-white" onClick={() => handleLinkClick('/contect')}>
                 <Mail size={16} />
-                <Link to="/contect" className="hover:text-white">Contact</Link>
+                Contact
               </li>
             </ul>
           </div>
@@ -96,7 +103,7 @@ const Footer = () => {
           {/* Contact Us */}
           <div>
             <h3 className="text-lime-400 text-lg font-semibold mb-4 flex items-center gap-2">
-             Contact Us <UserCircle size={18} /> 
+              Contact Us <UserCircle size={18} />
             </h3>
             <ul className="space-y-2">
               <li className="flex items-center gap-2">
@@ -121,7 +128,7 @@ const Footer = () => {
           {/* Our Services */}
           <div>
             <h3 className="text-lime-400 text-lg font-semibold mb-4 flex items-center gap-2">
-              Our Services<Layers size={18} /> 
+              Our Services <Layers size={18} />
             </h3>
             <ul className="space-y-2">
               <li className="flex items-center gap-2">
@@ -145,9 +152,9 @@ const Footer = () => {
                 <span>Backend Development</span>
               </li>
               <li className="flex items-center gap-2">
-  <Globe size={16} />
-  <span>WordPress Development</span>
-</li>
+                <Globe size={16} />
+                <span>WordPress Development</span>
+              </li>
               <li className="flex items-center gap-2">
                 <Facebook size={16} />
                 <span>Meta Ads</span>
