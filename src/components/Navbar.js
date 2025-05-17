@@ -9,20 +9,19 @@ export default function Navbar() {
   };
 
   return (
-    <nav className="bg-gray-800 p-4 text-white font-semibold text-xl border-white">
+    <nav className="fixed top-0 w-full z-50 bg-gray-800 p-4 text-white font-semibold text-xl border-white">
       <div className="container mx-auto flex items-center justify-between">
- 
+
         <div className="flex items-center gap-3">
           <img
             src="../1.png"
             alt="Profile"
-            className="w-12 h-12 object-cover mr-2 "
+            className="w-12 h-12 object-cover mr-2"
           />
-          <h1 className="text-3xl md:text-3xl font-serif text-transparent bg-clip-text bg-white  to-slate-300 hover:scale-105 ">
+          <h1 className="text-3xl md:text-3xl font-serif text-transparent bg-clip-text bg-white to-slate-300 hover:scale-105">
             CODE AURA
           </h1>
         </div>
-
 
         <div className="hidden md:flex flex-wrap gap-2">
           <Link to="/" className="relative inline-block px-6 py-2.5 text-lime-200 font-medium rounded-3xl cursor-pointer group no-underline">
@@ -95,24 +94,14 @@ export default function Navbar() {
 
       {/* Mobile Menu */}
       {isOpen && (
-  <div className="md:hidden flex flex-col items-center bg-gray-800 p-4">
-    <Link to="/" className="text-lime-200 py-2" onClick={() => setIsOpen(false)}>
-      Home
-    </Link>  
-    <Link to="/aboutme" className="text-lime-200 py-2" onClick={() => setIsOpen(false)}>
-      About Us
-    </Link>
-    <Link to="/skills" className="text-lime-200 py-2" onClick={() => setIsOpen(false)}>
-      Skills
-    </Link>
-    <Link to="/project" className="text-lime-200 py-2" onClick={() => setIsOpen(false)}>
-      Projects
-    </Link>
-    <Link to="/contect" className="text-lime-200 py-2" onClick={() => setIsOpen(false)}>
-      Contact
-    </Link>
-  </div>
-)}
+        <div className="md:hidden flex flex-col items-center bg-gray-800 p-4">
+          <Link to="/" className="text-lime-200 py-2" onClick={() => setIsOpen(false)}>Home</Link>
+          <Link to="/aboutme" className="text-lime-200 py-2" onClick={() => setIsOpen(false)}>About Us</Link>
+          <Link to="/skills" className="text-lime-200 py-2" onClick={() => setIsOpen(false)}>Skills</Link>
+          <Link to="/project" className="text-lime-200 py-2" onClick={() => setIsOpen(false)}>Projects</Link>
+          <Link to="/contect" className="text-lime-200 py-2" onClick={() => setIsOpen(false)}>Contact</Link>
+        </div>
+      )}
     </nav>
   );
 }

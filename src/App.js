@@ -28,9 +28,9 @@ function App() {
   return (
     <>
     <Router>
-              <div>
                 <Navbar />
                 <Alert alert={alert}/>
+              <div className='pt-20'>
                 <Routes>
                   <Route  path="/" element={<Home />} />
                   <Route  path="/aboutme" element={<Aboutme />} />
