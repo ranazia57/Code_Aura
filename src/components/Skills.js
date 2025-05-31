@@ -16,14 +16,14 @@ import {
 const skills = [
   { name: 'React.js', percentage: 90, icon: LayoutDashboard, color: '#61DBFB' },
   { name: 'JavaScript', percentage: 85, icon: FileCode, color: '#F7DF1E' },
-  { name: 'CSS3', percentage: 75, icon: Palette, color: '#2965f1' },
-  { name: 'HTML', percentage: 80, icon: Globe, color: '#e34c26' },
-  { name: 'Python', percentage: 85, icon: Code, color: '#3776AB' },
-  { name: 'AI/ML', percentage: 70, icon: Brain, color: '#ff69b4' },
+  { name: 'CSS3', percentage: 80, icon: Palette, color: '#2965f1' },
+  { name: 'HTML', percentage: 85, icon: Globe, color: '#e34c26' },
+  { name: 'Python', percentage: 90, icon: Code, color: '#3776AB' },
+  { name: 'AI/ML', percentage: 75, icon: Brain, color: '#ff69b4' },
   { name: 'Deep Learning', percentage: 65, icon: Cpu, color: '#8A2BE2' },
-  { name: 'Web Scraping', percentage: 80, icon: Search, color: '#00BFFF' },
+  { name: 'Web Scraping', percentage: 90, icon: Search, color: '#00BFFF' },
   { name: 'n8n', percentage: 60, icon: Workflow, color: '#f97316' },
-  { name: 'Meta Ads', percentage: 75, icon: Megaphone, color: '#1877F2' },
+  { name: 'Meta Ads', percentage: 85, icon: Megaphone, color: '#1877F2' },
   { name: 'WordPress', percentage: 90, icon: Globe, color: '#10b981' },
 ];
 

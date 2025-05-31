@@ -1,6 +1,6 @@
 import React, { useRef } from 'react';
 import emailjs from 'emailjs-com';
-import { FaArrowRight, FaPhoneAlt, FaMapMarkerAlt, FaEnvelope } from 'react-icons/fa';
+import { FaArrowRight, FaPhoneAlt, FaEnvelope } from 'react-icons/fa';
 import { Mail, MessageSquareText, User } from 'lucide-react';
 
 const Contact = (props) => {
@@ -37,13 +37,10 @@ const Contact = (props) => {
           </p>
           <div className="space-y-4 text-lg">
             <p className="flex items-center gap-3">
-              <FaEnvelope className="text-lime-400" /> rana@example.com
+              <FaEnvelope className="text-lime-400" /> codeaura.team@gmail.com
             </p>
             <p className="flex items-center gap-3">
-              <FaPhoneAlt className="text-lime-400" /> +92 123 4567890
-            </p>
-            <p className="flex items-center gap-3">
-              <FaMapMarkerAlt className="text-lime-400" /> Lahore, Pakistan
+              <FaPhoneAlt className="text-lime-400" /> +92-311-6586081
             </p>
           </div>
         </div>

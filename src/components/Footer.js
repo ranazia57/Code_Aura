@@ -5,9 +5,7 @@ import {
   Facebook,
   Twitter,
   Instagram,
-  Phone,
   Mail,
-  MapPin,
   ChevronUp,
   Brain,
   Globe,
@@ -107,20 +105,12 @@ const Footer = () => {
             </h3>
             <ul className="space-y-2">
               <li className="flex items-center gap-2">
-                <Phone size={16} />
-                <span>+92-306-9580053</span>
-              </li>
-              <li className="flex items-center gap-2">
                 <MessageCircleMore size={16} className="text-green-400" />
                 <span>+92-311-6586081</span>
               </li>
               <li className="flex items-center gap-2">
                 <Mail size={16} />
-                <span>ziauldinrajpoot@gmail.com</span>
-              </li>
-              <li className="flex items-center gap-2">
-                <MapPin size={16} />
-                <span>Sahiwal, Punjab, Pakistan.</span>
+                <span>codeaura.team@gmail.com</span>
               </li>
             </ul>
           </div>

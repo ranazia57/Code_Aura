@@ -1,5 +1,6 @@
 import React, { useEffect } from 'react';
 import { Link } from 'react-router-dom';
+import { FaPython } from 'react-icons/fa';
 
 const Aboutme = () => {
   useEffect(() => {
@@ -124,7 +125,7 @@ const Aboutme = () => {
         <div className="grid grid-cols-1 sm:grid-cols-3 gap-10">
           {[
             {
-              icon: '🐍',
+              icon: <div className="flex justify-center"><FaPython className="text-lime-400 text-4xl mt-2" /></div>,
               title: 'Python Development',
               desc: 'We build powerful backends, automation scripts, and AI-driven systems using Python. Our solutions are designed to scale with your business and provide long-term performance and stability.',
             },
@@ -189,12 +190,12 @@ const Aboutme = () => {
           ].map((member, i) => (
             <div
               key={i}
-              className="transition-transform duration-500 transform hover:-translate-y-2"
+              className="transition-transform duration-500 transform hover:-translate-y-2 text-center"
             >
               <img
                 src={member.img}
                 alt={member.role}
-                className="w-72 h-72 object-cover rounded-full shadow-2xl slide-up"
+                className="w-72 h-72 object-cover rounded-full shadow-2xl slide-up mx-auto"
               />
               <h4 className="mt-4 text-xl font-semibold text-white">{member.role}</h4>
               <p className="text-slate-300 text-sm mt-2">{member.desc}</p>

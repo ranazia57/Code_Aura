@@ -4,32 +4,32 @@ import { Navigation, Pagination, Autoplay } from "swiper/modules";
 import "swiper/css";
 import "swiper/css/navigation";
 import "swiper/css/pagination";
-import "swiper/css/autoplay"; 
+import "swiper/css/autoplay";
 import { XIcon } from "@heroicons/react/solid";
 import { Link } from "react-router-dom";
 
-const projects = [
+const mernProjects = [
   {
     title: "NoteSphere",
-    description: "NoteSphere is a full-stack note management web app that allows users to securely register, log in, and manage personal notes from anywhere, anytime — powered by robust authentication and real-time database operations.",
+    description:
+      "NoteSphere is a full-stack note management web app that allows users to securely register, log in, and manage personal notes from anywhere, anytime — powered by robust authentication and real-time database operations.",
     images: [
       "../notes/home.png",
       "../notes/about.png",
       "../notes/addnote.png",
       "../notes/saved.png",
       "../notes/login.png",
-      "../notes/signup.png"
+      "../notes/signup.png",
     ],
     benefits: [
-      "🔐 Secure user authentication with password hashing (bcrypt + salt)",
-      "🗂️ Full CRUD operations for creating, reading, updating, and deleting notes",
-      "☁️ Cloud-stored notes accessible from any device via login",
-      "🧠 Clean and intuitive user interface for smooth experience",
-      "🛠️ Built with MERN stack: MongoDB, Express, React, and Node.js"
+      "Secure user authentication with bcrypt",
+      "Full CRUD operations",
+      "Cloud-stored notes",
+      "Clean UI",
+      "MERN Stack",
     ],
     github: "https://github.com/ranazia57/NoteSphere",
-    live: "",
-    techUsed: ["React", "Node.js", "MongoDB", "Express", "Tailwind"]
+    techUsed: ["React", "Node.js", "MongoDB", "Express", "Tailwind"],
   },
   {
     title: "NewsHive",
@@ -38,18 +38,17 @@ const projects = [
       "../news/home.png",
       "../news/tloader.png",
       "../news/bloader.png",
-      "../news/home1.png"
+      "../news/home1.png",
     ],
     benefits: [
-      "⚡ Real-time news updates fetched daily via API integration",
-      "🌀 Infinite scroll with smooth user experience for continuous browsing",
-      "📊 Category-based filtering (Sports, Science, Entertainment, General, etc.)",
-      "🔼 Top loading bar and bottom spinner to indicate content loading",
-      "🕒 Each article includes publish date, time, and a “Read More” call-to-action"
+      "Real-time news updates",
+      "Infinite scroll",
+      "Category-based filtering",
+      "Top/Bottom loading indicators",
+      "Date & Read More button",
     ],
     github: "https://github.com/ranazia57/NewsHive",
-    live: "",
-    techUsed: ["React", "NewsAPI", "Tailwind"]
+    techUsed: ["React", "NewsAPI", "Tailwind"],
   },
   {
     title: "Aura by AZ",
@@ -61,18 +60,17 @@ const projects = [
       "../aura/contect.png",
       "../aura/login.png",
       "../aura/sighup.png",
-      "../aura/product.png"
+      "../aura/product.png",
     ],
     benefits: [
-      "🧴 Separate product categories for Men’s and Women’s perfumes",
-      "🛒 Fully functional Add to Cart feature for easy shopping experience",
-      "🌓 Built-in Dark/Light mode toggle for personalized viewing",
-      "📝 Dedicated blog section with daily content updates",
-      "🧭 Responsive layout with structured header and footer navigation"
+      "Separate Men/Women perfumes",
+      "Add to Cart",
+      "Dark/Light Mode",
+      "Blog Section",
+      "Responsive layout",
     ],
     github: "https://github.com/ranazia57/react-project",
-    live: "",
-    techUsed: ["React", "Node.js", "Tailwind", "Express"]
+    techUsed: ["React", "Node.js", "Tailwind", "Express"],
   },
   {
     title: "TextUtils",
@@ -81,19 +79,67 @@ const projects = [
       "../text/home.png",
       "../text/dhome.png",
       "../text/about.png",
-      "../text/dabout.png"
+      "../text/dabout.png",
     ],
     benefits: [
-      "🔠 Convert text to Uppercase / Lowercase, remove extra spaces, and clear text",
-      "📧 Email extractor and smart email word filter to manage sensitive info",
-      "🧮 Instant word and character count, plus live text preview section",
-      "🌓 Support for Dark/Light mode to reduce eye strain",
-      "🔍 Functional search bar in navbar and an informative About Us page"
+      "Text manipulation tools",
+      "Email extractor",
+      "Word/Character count",
+      "Dark/Light Mode",
+      "Search bar",
     ],
     github: "https://github.com/ranazia57/TextUtils",
-    live: "",
-    techUsed: ["React", "BootStrap" , "JavaScript"]
-  }
+    techUsed: ["React", "BootStrap", "JavaScript"],
+  },
+];
+
+const pythonProjects = [
+  {
+    title: "Smart Hotel Analytics & Revenue Platform",
+    description:
+      "HotelIntel is a comprehensive hotel analytics and revenue management tool designed to help hotels monitor performance, forecast future trends, and make data-driven decisions. The platform offers powerful dashboards, AI-driven insights, and competitor analysis — all accessible through an intuitive interface.",
+    images: [
+      "../hotel/1.jpg",
+      "../hotel/3.jpg",
+      "../hotel/4.jpg",
+      "../hotel/5.jpg",
+      "../hotel/6.jpg",
+      "../hotel/2.jpg",
+    ],
+    benefits: [
+      "Dashboard with RevPAR, ADR, Occupancy & Revenue",
+      "Historical & AI-driven forecasts",
+      "AI assistant with OpenAI & custom data chat",
+      "Auto-generated performance reports",
+      "Competitor rate scraping from Booking.com",
+      "Date filters for trend analysis",
+      "Clean, user-friendly UI",
+    ],
+    github: "#",
+    techUsed: ["Python", "OpenAI API", "Django", "React js", "Rest API", "Mongo DB"],
+  },
+  {
+    title: "Smart DataVision",
+    description:
+      "DataVision is a smart, AI-powered data analysis tool that allows users to upload their datasets, visualize trends through interactive dashboards, and gain meaningful insights via OpenAI-powered chat — all in one intuitive interface.",
+    images: [
+      "../analize/1.jpg",
+      "../analize/3.jpg",
+      "../analize/4.jpg",
+      "../analize/5.jpg",
+      "../analize/2.jpg",
+    ],
+    benefits: [
+      "Easy data upload with a simple interface",
+      "Interactive dashboards with graphs",
+      "AI insights powered by OpenAI",
+      "Chat naturally with your data",
+      "Secure OpenAI API key setup",
+      "Clean, responsive UI for smooth use",
+    ],
+    github: "#",
+    techUsed: ["Python", "OpenAI API", "Flask", "HTML5", "CSS3", "SQL", "JavaScript"],
+  },
 ];
 
 export default function Projects() {
@@ -110,102 +156,105 @@ export default function Projects() {
     setCurrentImage("");
   };
 
-  return (
-    <div className="bg-black min-h-screen py-10 px-4 text-white">
-      <h1 className="text-4xl font-bold text-green-400 text-left ml-6 sm:ml-24 mb-10">
-        My Projects
-      </h1>
-      <div className="grid gap-10 max-w-6xl mx-auto px-2 sm:px-0 ">
-        {projects.map((project, idx) => (
-          <div
-            key={idx}
-            className="p-4 sm:p-6 bg-white/10 rounded-2xl shadow-lg w-full overflow-hidden"
+  const renderProjectCard = (project, idx) => (
+    <div
+      key={idx}
+      className="p-6 bg-white/10 rounded-2xl shadow-xl hover:shadow-2xl transition-all"
+    >
+      <h2 className="text-2xl font-bold text-lime-400 mb-3">{project.title}</h2>
+      <p className="text-slate-200 text-sm mb-4">{project.description}</p>
+
+      <Swiper
+        modules={[Navigation, Pagination, Autoplay]}
+        navigation
+        pagination={{ clickable: true }}
+        autoplay={{ delay: 2500 }}
+        className="rounded-xl mb-4"
+      >
+        {project.images.map((img, imgIdx) => (
+          <SwiperSlide key={imgIdx}>
+            <img
+              src={img}
+              onClick={() => handleImageClick(img)}
+              className="w-full h-64 object-contain rounded-lg cursor-pointer bg-black/20"
+              alt="project"
+            />
+          </SwiperSlide>
+        ))}
+      </Swiper>
+
+      <h3 className="text-white font-semibold">Key Benefits:</h3>
+      <ul className="text-slate-300 text-sm list-disc list-inside space-y-1">
+        {project.benefits.map((b, i) => (
+          <li key={i}>✔ {b}</li>
+        ))}
+      </ul>
+
+      <div className="mt-4 flex flex-wrap gap-2">
+        {project.techUsed.map((tech, i) => (
+          <span
+            key={i}
+            className="bg-lime-400 text-black px-3 py-1 rounded-full text-xs"
           >
-            <h2 className="text-2xl font-bold text-green-400 mb-2">
-              {project.title}
-            </h2>
-            <p className="text-slate-300 mb-4 text-sm sm:text-base">
-              {project.description}
-            </p>
-
-            <Swiper
-              modules={[Navigation, Pagination, Autoplay]}
-              navigation
-              pagination={{ clickable: true }}
-              autoplay={{
-                delay: 2000,
-                disableOnInteraction: false,
-              }}
-              className="rounded-xl overflow-hidden"
-            >
-              {project.images.map((img, imgIdx) => (
-                <SwiperSlide key={imgIdx}>
-                  <img
-                    src={img}
-                    alt={`Project screenshot ${imgIdx + 1}`}
-                    className="w-full h-60 sm:h-[400px] object-contain bg-white/10 cursor-pointer rounded"
-                    onClick={() => handleImageClick(img)}
-                  />
-                </SwiperSlide>
-              ))}
-            </Swiper>
-
-            <div className="mt-6">
-              <h3 className="text-lg font-semibold text-white mb-2">Key Benefits:</h3>
-              <ul className="list-disc list-inside text-slate-300 space-y-1 text-sm sm:text-base">
-                {project.benefits.map((point, index) => (
-                  <li key={index}>✔ {point}</li>
-                ))}
-              </ul>
-            </div>
-
-            <div className="mt-6">
-              <h3 className="text-lg font-semibold text-white mb-2">Tech Used:</h3>
-              <div className="flex flex-wrap gap-2">
-                {project.techUsed.map((tech, i) => (
-                  <span
-                    key={i}
-                    className="bg-green-400 text-black px-3 py-1 rounded-full text-xs sm:text-sm font-medium"
-                  >
-                    {tech}
-                  </span>
-                ))}
-              </div>
-            </div>
-
-            <div className="mt-6 flex flex-wrap gap-4">
-              <Link
-                to={project.github}
-                target="_blank"
-                rel="noreferrer"
-                className="px-4 py-2 bg-green-400 text-black rounded-lg shadow hover:bg-green-500 transition text-sm"
-              >
-                GitHub Code
-              </Link>
-              <button
-                disabled
-                className="px-4 py-2 bg-gray-600 text-white rounded-lg cursor-not-allowed text-sm"
-              >
-                Live Demo (Coming Soon)
-              </button>
-            </div>
-          </div>
+            {tech}
+          </span>
         ))}
       </div>
 
+      <div className="mt-4 flex gap-4">
+        <Link
+          to={project.github}
+          className="px-4 py-2 bg-lime-400 text-black rounded shadow hover:bg-lime-500 text-sm"
+          target="_blank"
+        >
+          GitHub Code
+        </Link>
+        <button
+          disabled
+          className="px-4 py-2 bg-gray-600 text-white rounded cursor-not-allowed text-sm"
+        >
+          Live Demo (Coming Soon)
+        </button>
+      </div>
+    </div>
+  );
+
+  return (
+    <div className="bg-gray-700 min-h-screen px-4 py-10 text-white">
+      <h1 className="text-4xl font-bold text-lime-400 mb-10 text-center">My Projects</h1>
+
+      <div className="max-w-6xl mx-auto space-y-16">
+        <section>
+          <h2 className="text-3xl text-lime-300 font-semibold mb-6 border-b border-lime-400 pb-2">
+            MERN Stack Projects
+          </h2>
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-8">
+            {mernProjects.map(renderProjectCard)}
+          </div>
+        </section>
+
+        <section>
+          <h2 className="text-3xl text-lime-300 font-semibold mb-6 border-b border-lime-400 pb-2">
+            Python-Based Projects
+          </h2>
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-8">
+            {pythonProjects.map(renderProjectCard)}
+          </div>
+        </section>
+      </div>
+
       {showModal && (
-        <div className="fixed inset-0 bg-white/10 bg-opacity-80 flex items-center justify-center z-50 px-4">
-          <div className="relative w-full max-w-4xl">
+        <div className="fixed inset-0 bg-black bg-opacity-70 z-50 flex items-center justify-center p-4">
+          <div className="relative max-w-4xl w-full">
             <button
               onClick={handleCloseModal}
-              className="absolute top-4 right-4 bg-green-400 p-2 rounded-full text-white hover:bg-green-500 transition"
+              className="absolute top-4 right-4 bg-lime-400 p-2 rounded-full"
             >
-              <XIcon className="h-6 w-6" />
+              <XIcon className="h-6 w-6 text-black" />
             </button>
-
             <img
               src={currentImage}
-              alt="Full preview"
+              alt="Preview"
               className="w-full max-h-[80vh] object-contain rounded-xl"
             />
           </div>

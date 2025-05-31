@@ -33,7 +33,7 @@ function App() {
               <div className='pt-20'>
                 <Routes>
                   <Route  path="/" element={<Home />} />
-                  <Route  path="/aboutme" element={<Aboutme />} />
+                  <Route  path="/aboutus" element={<Aboutme />} />
                   <Route  path="/skills" element={<Skills />} />
                   <Route  path="/project" element={<Project />} />
                   <Route  path="/contect" element={<Contact showAlert={showAlert}/>} />

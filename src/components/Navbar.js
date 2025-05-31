@@ -30,7 +30,7 @@ export default function Navbar() {
             <span className="absolute inset-0 rounded-3xl border border-transparent bg-gradient-to-b from-lime-200/30 via-lime-200/10 to-transparent group-hover:border-lime-400 pointer-events-none"></span>
           </Link>
 
-          <Link to="/aboutme" className="relative inline-block px-6 py-2.5 text-lime-200 font-medium rounded-3xl cursor-pointer group no-underline">
+          <Link to="/aboutus" className="relative inline-block px-6 py-2.5 text-lime-200 font-medium rounded-3xl cursor-pointer group no-underline">
             <span className="relative z-10">About Us</span>
             <span className="absolute inset-0 rounded-3xl bg-gradient-to-b from-transparent via-lime-400/20 to-lime-400/40 shadow-inner shadow-lime-200/40 transition-opacity duration-300 opacity-0 group-hover:opacity-100"></span>
             <span className="absolute inset-0 rounded-3xl border border-transparent bg-gradient-to-b from-lime-200/30 via-lime-200/10 to-transparent group-hover:border-lime-400 pointer-events-none"></span>
