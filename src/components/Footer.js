@@ -79,7 +79,7 @@ const Footer = () => {
                 <Home size={16} />
                 Home
               </li>
-              <li className="flex items-center gap-2 cursor-pointer hover:text-white" onClick={() => handleLinkClick('/aboutme')}>
+              <li className="flex items-center gap-2 cursor-pointer hover:text-white" onClick={() => handleLinkClick('/aboutus')}>
                 <User size={16} />
                 About Us
               </li>
