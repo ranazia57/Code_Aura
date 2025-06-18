@@ -1,0 +1,222 @@
+[
+  {
+    "question": "Who are you?",
+    "answer": "I am the AI assistant for CodeAura, a team of passionate developers and digital experts who turn ideas into intelligent digital solutions."
+  },
+  {
+    "question": "What is CodeAura?",
+    "answer": "CodeAura is a digital solutions agency specializing in web development, AI, automation, and digital marketing. We help clients build smart, scalable, and impactful digital products."
+  },
+  {
+    "question": "What services do you offer?",
+    "answer": "We offer React and WordPress web development, Python automation, AI chatbots, machine learning, deep learning, data analysis, web scraping, browser agents, workflow automation (n8n), and Meta Ads management."
+  },
+  {
+    "question": "What technologies do you use?",
+    "answer": "We work with React.js, Node.js, Express, MongoDB, Python, Django, Flask, HTML5, CSS3, JavaScript, Tailwind CSS, WordPress, n8n, and more."
+  },
+  {
+    "question": "What are your core values?",
+    "answer": "Our core values are dedication, smart work, on-time delivery, and client satisfaction. We believe in building long-term partnerships and delivering real results."
+  },
+  {
+    "question": "What makes CodeAura different from other agencies?",
+    "answer": "Our team combines technical expertise with a passion for innovation. We focus on smart workflows, clear communication, and always go the extra mile to ensure client success."
+  },
+  {
+    "question": "Can you tell me about your team?",
+    "answer": "Our team includes Python developers, React front-end developers, and full stack developers. Key members are Nouman (Python Developer), Zia (React Front-End Developer), and Abdullah (Full Stack Developer)."
+  },
+  {
+    "question": "How can I contact you?",
+    "answer": "You can contact us via the Contact page, email (codeaura.team@gmail.com), or phone (+92-311-6586081)."
+  },
+  {
+    "question": "Are you available for freelance work?",
+    "answer": "Yes, we are available for freelance projects. Let's connect and discuss your requirements!"
+  },
+  {
+    "question": "What is your email address?",
+    "answer": "Our email address is codeaura.team@gmail.com."
+  },
+  {
+    "question": "What is your phone number?",
+    "answer": "You can reach us at +92-311-6586081."
+  },
+  {
+    "question": "Where are you based?",
+    "answer": "We are based in Pakistan but work with clients worldwide."
+  },
+  {
+    "question": "How can I start a project with you?",
+    "answer": "Just reach out via our Contact page, email, or phone, and we’ll discuss your project requirements and next steps."
+  },
+  {
+    "question": "What is your process for working with new clients?",
+    "answer": "We start by understanding your goals, propose tailored solutions, and keep you updated at every step for a smooth, collaborative experience."
+  },
+  {
+    "question": "What is your experience with AI and automation?",
+    "answer": "We have extensive experience building AI chatbots, automation scripts, machine learning and deep learning systems, and smart browser agents."
+  },
+  {
+    "question": "Do you build AI chatbots?",
+    "answer": "Yes, we create intelligent, task-driven chatbots and browser agents that handle real-time queries, automate processes, and collect structured data."
+  },
+  {
+    "question": "Do you offer web scraping services?",
+    "answer": "Yes, we craft efficient web scraping tools and browser agents for data collection and automation."
+  },
+  {
+    "question": "Do you provide Meta Ads (Facebook) services?",
+    "answer": "Yes, we run precision-targeted ad campaigns on Meta platforms, ensuring high ROI and measurable results."
+  },
+  {
+    "question": "Do you develop WordPress websites?",
+    "answer": "Yes, our WordPress team delivers high-performance websites with custom themes, plugins, and secure optimizations."
+  },
+  {
+    "question": "What is your expertise in Python?",
+    "answer": "We build powerful backends, automation scripts, and AI-driven systems using Python, designed for scalability and long-term performance."
+  },
+  {
+    "question": "What are your main skills?",
+    "answer": "Our main skills include React.js, JavaScript, CSS3, HTML, Python, AI/ML, Deep Learning, Web Scraping, n8n, Meta Ads, and WordPress."
+  },
+  {
+    "question": "Can you describe your skills in detail?",
+    "answer": "We have advanced skills in React.js (90%), Python (90%), JavaScript (85%), HTML (85%), CSS3 (80%), AI/ML (75%), Deep Learning (65%), Web Scraping (90%), n8n (60%), Meta Ads (85%), and WordPress (90%)."
+  },
+  {
+    "question": "What kind of projects have you built?",
+    "answer": "We have built note management apps (NoteSphere), news apps (NewsHive), e-commerce sites (Aura by AZ), text analysis tools (TextUtils), hotel analytics platforms (HotelIntel), AI-powered data tools (DataVision, InsightPilot), and more."
+  },
+  {
+    "question": "Can you describe a MERN stack project you built?",
+    "answer": "NoteSphere is a full-stack note management web app with secure authentication, real-time database, and a clean UI, built using the MERN stack."
+  },
+  {
+    "question": "Do you have experience with data analysis platforms?",
+    "answer": "Yes, we have built platforms like HotelIntel and DataVision for analytics, forecasting, and AI-driven insights."
+  },
+  {
+    "question": "Do you offer digital marketing services?",
+    "answer": "Yes, we provide high-impact Facebook (Meta) ad campaigns and SEO strategies to grow your audience and boost conversions."
+  },
+  {
+    "question": "What is your approach to project delivery?",
+    "answer": "We approach every project with passion and responsibility, use smart workflows, and ensure on-time delivery with clear planning and updates."
+  },
+  {
+    "question": "How do you ensure client satisfaction?",
+    "answer": "We build long-term partnerships by delivering real results and continuously improving based on client feedback."
+  },
+  {
+    "question": "What is your design philosophy?",
+    "answer": "We believe in clean, responsive, and user-centric design, ensuring every product is both beautiful and functional."
+  },
+  {
+    "question": "Do you offer both frontend and backend development?",
+    "answer": "Yes, we offer full-stack development including frontend (React, HTML, CSS, JavaScript) and backend (Node.js, Express, Python, Django, Flask)."
+  },
+  {
+    "question": "Can you integrate AI into my website?",
+    "answer": "Absolutely! We can integrate AI chatbots, data analysis, and automation features into your website or app."
+  },
+  {
+    "question": "Do you provide ongoing support and maintenance?",
+    "answer": "Yes, we offer ongoing support, maintenance, and updates for all our projects."
+  },
+  {
+    "question": "Can you help with SEO and digital marketing?",
+    "answer": "Yes, we offer SEO optimization and digital marketing services, including Meta Ads campaigns."
+  },
+  {
+    "question": "Do you work with international clients?",
+    "answer": "Yes, we work with clients from all over the world."
+  },
+  {
+    "question": "How do you handle project deadlines?",
+    "answer": "We manage every milestone through clear planning and timely updates to ensure no deadlines are missed."
+  },
+  {
+    "question": "Can I see your previous work?",
+    "answer": "Yes, you can view our projects on the Projects page of our website or request a portfolio via email."
+  },
+  {
+    "question": "What is your experience with automation tools like n8n?",
+    "answer": "We use n8n to automate workflows, connect APIs, and streamline business processes for our clients."
+  },
+  {
+    "question": "Do you offer custom solutions?",
+    "answer": "Yes, we tailor every solution to your unique business needs, whether it's a website, automation, or AI integration."
+  },
+  {
+    "question": "What is your process for building a new website?",
+    "answer": "We start with requirements gathering, then design, develop, test, and launch your website, keeping you updated at every step."
+  },
+  {
+    "question": "How do you ensure website security?",
+    "answer": "We follow best practices for secure coding, use HTTPS, and implement authentication and authorization as needed."
+  },
+  {
+    "question": "Can you build e-commerce websites?",
+    "answer": "Yes, we can build e-commerce websites with features like product management, shopping cart, secure checkout, and more."
+  },
+  {
+    "question": "Do you offer UI/UX design services?",
+    "answer": "Yes, we design user-friendly, visually appealing interfaces that enhance user experience and engagement."
+  },
+  {
+    "question": "How do you handle feedback and revisions?",
+    "answer": "We welcome client feedback at every stage and offer revisions to ensure the final product meets your expectations."
+  },
+  {
+    "question": "What is your pricing model?",
+    "answer": "Our pricing depends on the project scope and requirements. Contact us for a free quote tailored to your needs."
+  },
+  {
+    "question": "How quickly can you start my project?",
+    "answer": "We can usually start new projects within a few days after the initial consultation and agreement."
+  },
+  {
+    "question": "What payment methods do you accept?",
+    "answer": "We accept bank transfers, PayPal, and other standard payment methods."
+  },
+  {
+    "question": "How do I get a quote for my project?",
+    "answer": "Just contact us with your project details, and we’ll provide a free, no-obligation quote."
+  },
+  {
+    "question": "How can I contact you?",
+    "answer": "You can contact us via our Contact page, by email at codeaura.team@gmail.com, or by phone at +92-311-6586081."
+  },
+  {
+    "question": "What is your email address?",
+    "answer": "Our email address is codeaura.team@gmail.com."
+  },
+  {
+    "question": "What is your phone number?",
+    "answer": "You can reach us at +92-311-6586081."
+  },
+  {
+    "question": "Where are you located?",
+    "answer": "We are based in Pakistan but work with clients worldwide."
+  },
+  {
+    "question": "How can I connect with you on social media?",
+    "answer": "You can follow us on Facebook at https://www.facebook.com/profile.php?id=61576285330884 and on Instagram at https://www.instagram.com/codeaura.team/"
+  },
+  {
+    "question": "What are your social media links?",
+    "answer": "Facebook: https://www.facebook.com/profile.php?id=61576285330884 | Instagram: https://www.instagram.com/codeaura.team/"
+  },
+  {
+    "question": "Do you have a Facebook page?",
+    "answer": "Yes, our Facebook page is https://www.facebook.com/profile.php?id=61576285330884"
+  },
+  {
+    "question": "Do you have an Instagram account?",
+    "answer": "Yes, our Instagram is https://www.instagram.com/codeaura.team/"
+  }
+]

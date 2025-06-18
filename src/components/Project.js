@@ -10,6 +10,54 @@ import { Link } from "react-router-dom";
 
 const mernProjects = [
   {
+    title: "GoldenCity",
+   description:
+  "GoldenCity is a web platform where users can invest and trade in real estate using cryptocurrency. Own fractional shares of premium properties via NFTs, starting with just $10—secure, transparent, and accessible to everyone.",
+    images: [
+      "../realstate/1.jpg",
+      "../realstate/2.jpg",
+      "../realstate/3.jpg",
+      "../realstate/4.jpg",
+      "../realstate/5.jpg",
+      "../realstate/6.jpg",
+    ],
+  benefits: [
+    "Invest in real estate with cryptocurrency",
+    "Own fractional shares of premium properties via NFTs",
+    "Start investing with as little as $10",
+    "Trade property shares easily and securely",
+    "Transparent, blockchain-backed transactions",
+  ],
+    github: "https://github.com/AbdulahBashir/realstate.git",
+    techUsed: ["React", "Node.js", "MongoDB", "Express", "Tailwind"],
+  },
+  {
+    title: "DKC B2B Portal",
+   description:
+  "DKC Buyer ttps://github.com/ranazia57/NoteSpherePartnership Portal is a B2B platform connecting buyers and partners with Kashmiri crafts businesses for the USA market. It streamlines partnerships, registration, and appointment booking for efficient international trade.",
+    images: [
+      "../b2b/1.jpg",
+      "../b2b/2.jpg",
+      "../b2b/3.jpg",
+      "../b2b/4.jpg",
+      "../b2b/5.jpg",
+      "../b2b/6.jpg",
+      "../b2b/7.jpg",
+      "../b2b/8.jpg",
+      "../b2b/9.jpg",
+      "../b2b/10.jpg",
+    ],
+    benefits: [
+  "Centralized B2B hub",
+  "Direct USA partnerships",
+  "Easy registration & booking",
+  "Streamlined buyer-artisan communication",
+  "Digital exposure for Kashmiri crafts",
+],
+    github: "https://github.com/AbdulahBashir/b2b.git",
+    techUsed: ["React", "Node.js", "MongoDB", "Express", "Tailwind"],
+  },
+  {
     title: "NoteSphere",
     description:
       "NoteSphere is a full-stack note management web app that allows users to securely register, log in, and manage personal notes from anywhere, anytime — powered by robust authentication and real-time database operations.",
@@ -95,9 +143,9 @@ const mernProjects = [
 
 const pythonProjects = [
   {
-    title: "Smart Hotel Analytics & Revenue Platform",
+    title: "Smart Hotel Analytics & Revenue Platform",
     description:
-      "HotelIntel is a comprehensive hotel analytics and revenue management tool designed to help hotels monitor performance, forecast future trends, and make data-driven decisions. The platform offers powerful dashboards, AI-driven insights, and competitor analysis — all accessible through an intuitive interface.",
+      "HotelIntel is a comprehensive hotel analytics and revenue management tool designed to help hotels monitor performance, forecast future trends, and make data-driven decisions. The platform offers powerful dashboards, AI-driven insights, and competitor analysis — all accessible through an intuitive interface.",
     images: [
       "../hotel/1.jpg",
       "../hotel/3.jpg",
@@ -121,7 +169,7 @@ const pythonProjects = [
   {
     title: "Smart DataVision",
     description:
-      "DataVision is a smart, AI-powered data analysis tool that allows users to upload their datasets, visualize trends through interactive dashboards, and gain meaningful insights via OpenAI-powered chat — all in one intuitive interface.",
+      "DataVision is a smart, AI-powered data analysis tool that allows users to upload their datasets, visualize trends through interactive dashboards, and gain meaningful insights via OpenAI-powered chat — all in one intuitive interface.",
     images: [
       "../analize/1.jpg",
       "../analize/3.jpg",
@@ -139,6 +187,64 @@ const pythonProjects = [
     ],
     github: "#",
     techUsed: ["Python", "OpenAI API", "Flask", "HTML5", "CSS3", "SQL", "JavaScript"],
+  },
+  {
+    title: "HotelIQ ",
+    description:
+      "HotelIQ is a full-stack hotel intelligence web app that lets users enter a hotel URL, check-in date, number of days, and nights to fetch real-time hotel rates and reviews — powered by dynamic scraping and clean data visualization.",
+    images: [
+      "../hotelrate/1.jpg",
+      "../hotelrate/2.jpg",
+      "../hotelrate/3.jpg",
+    ],
+    benefits: [
+      "Real-time hotel data scraping",
+      "Custom check-in and duration inputs",
+      "Interactive review and pricing display",
+      "Clean, responsive UI",
+      "Flask, HTML, CSS, and JavaScript stack",
+    ],
+    github: "#",
+    techUsed: ["Python", "OpenAI API", "Flask", "HTML5", "CSS3", "SQL", "JavaScript"],
+  },
+  {
+    title: "AIAgentPro",
+    description:
+      "AIAgentPro is a smart AI-powered project analysis assistant under the brand AI Services Agency. It helps clients streamline project planning by collecting essential details such as project name, description, budget, timeline, type, and priority — and generates a deep analysis report using OpenAIs intelligence.",
+    images: [
+      "../aiagent/1.jpg",
+    ],
+    benefits: [
+      "Smart project analysis using OpenAI’s API",
+      "Collects key inputs: name, description, budget, timeline, type, and priority",
+      "Generates detailed, structured project documentation automatically",
+      "Allows secure OpenAI API key setup",
+      "Saves time with automated project scope creation",
+      "Clean, minimal interface for a smooth user journey",
+    ],
+    github: "#",
+    techUsed: ["Python", "OpenAI API", "HTML5", "CSS3", "SQL", "JavaScript"],
+  },
+  {
+    title: "InsightPilot ",
+    description:
+      "InsightPilot is a powerful AI-driven data visualization assistant that allows users to upload CSV or Excel datasets, visualize them through interactive dashboards, and explore deep insights using AI-powered natural language chat. Users can configure models like Meta-LLaMA or others via API keys and ask questions directly about their data — turning complex data into actionable understanding.",
+    images: [
+      "../aiagent2/1.jpg",
+      "../aiagent2/2.jpg",
+      "../aiagent2/3.jpg",
+    ],
+    benefits: [
+      "Upload CSV/Excel datasets with ease",
+      "AI-powered data chat and auto insights",
+      "Interactive dashboards and graphs",
+      "Multiple LLM model options (e.g., Meta-LLaMA)",
+      "Secure API key configuration (Together AI, E2B)",
+      "Simple drag-and-drop interface",
+      " Real-time question-answering on your uploaded data",
+    ],
+    github: "#",
+    techUsed: ["Python", "OpenAI API", "HTML5", "CSS3", "SQL", "JavaScript"],
   },
 ];
 
