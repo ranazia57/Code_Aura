@@ -7,38 +7,58 @@ const faqs = require('./faqs.json');
 const axios = require('axios');
 const nodemailer = require('nodemailer');
 const PDFDocument = require('pdfkit');
+const Fuse = require('fuse.js'); // <-- Fuse.js import
 
 const app = express();
 app.use(cors());
 app.use(bodyParser.json());
 
-// === Chat Endpoint (Google Gemini) ===
+// === Fuse.js setup for FAQs ===
+const fuse = new Fuse(faqs, {
+  keys: ['question'],
+  threshold: 0.4, // 0.3-0.4 is best for most cases
+});
+
+// === Chat Endpoint (Groq Llama 3 + FAQ Fuzzy Matching with Fuse.js) ===
 app.post('/api/chat', async (req, res) => {
   const userMessage = req.body.message;
 
-  // Custom FAQ check
+  // 1. Exact match (optional, but Fuse also catches exact)
   const found = faqs.find(faq =>
-    userMessage.toLowerCase().includes(faq.question.toLowerCase())
+    userMessage.toLowerCase().trim() === faq.question.toLowerCase().trim()
   );
   if (found) {
     return res.json({ answer: found.answer });
   }
 
-  // Google Gemini API call
+  // 2. Fuse.js fuzzy match
+  const results = fuse.search(userMessage);
+  if (results.length > 0) {
+    // Sab se relevant answer do
+    return res.json({ answer: results[0].item.answer });
+  }
+
+  // 3. If nothing relevant, call Groq API
   try {
-    const geminiRes = await axios.post(
-      `https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=${process.env.GOOGLE_API_KEY}`,
+    const groqRes = await axios.post(
+      'https://api.groq.com/openai/v1/chat/completions',
       {
-        contents: [
-          { parts: [{ text: userMessage }] }
+        model: 'llama3-70b-8192',
+        messages: [
+          { role: 'user', content: userMessage }
         ]
+      },
+      {
+        headers: {
+          'Authorization': `Bearer ${process.env.GROQ_API_KEY}`,
+          'Content-Type': 'application/json'
+        }
       }
     );
-    // Gemini ka response thoda nested hota hai
-    const answer = geminiRes.data.candidates?.[0]?.content?.parts?.[0]?.text || "Sorry, no answer found.";
+    const answer = groqRes.data.choices?.[0]?.message?.content || "Sorry, no answer found.";
     res.json({ answer });
   } catch (err) {
-    console.error('Gemini API Error:', err.response ? err.response.data : err.message);
+    console.error('Groq API Error:', err.response ? err.response.data : err.message);
     res.status(500).json({ answer: 'Sorry, something went wrong.' });
   }
 });

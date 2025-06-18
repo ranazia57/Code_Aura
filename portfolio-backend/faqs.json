@@ -4,7 +4,39 @@
     "answer": "I am the AI assistant for CodeAura, a team of passionate developers and digital experts who turn ideas into intelligent digital solutions."
   },
   {
+    "question": "Who is answering me?",
+    "answer": "I am the AI assistant for CodeAura, a team of passionate developers and digital experts who turn ideas into intelligent digital solutions."
+  },
+  {
+    "question": "ap kon ho?",
+    "answer": "I am the AI assistant for CodeAura, a team of passionate developers and digital experts who turn ideas into intelligent digital solutions."
+  },
+  {
+    "question": "who am I talking to?",
+    "answer": "I am the AI assistant for CodeAura, a team of passionate developers and digital experts who turn ideas into intelligent digital solutions."
+  },
+  {
+    "question": "who is this?",
+    "answer": "I am the AI assistant for CodeAura, a team of passionate developers and digital experts who turn ideas into intelligent digital solutions."
+  },
+  {
     "question": "What is CodeAura?",
+    "answer": "CodeAura is a digital solutions agency specializing in web development, AI, automation, and digital marketing. We help clients build smart, scalable, and impactful digital products."
+  },
+  {
+    "question": "Tell me about CodeAura.",
+    "answer": "CodeAura is a digital solutions agency specializing in web development, AI, automation, and digital marketing. We help clients build smart, scalable, and impactful digital products."
+  },
+  {
+    "question": "CodeAura kya hai?",
+    "answer": "CodeAura is a digital solutions agency specializing in web development, AI, automation, and digital marketing. We help clients build smart, scalable, and impactful digital products."
+  },
+  {
+    "question": "What does CodeAura do?",
+    "answer": "CodeAura is a digital solutions agency specializing in web development, AI, automation, and digital marketing. We help clients build smart, scalable, and impactful digital products."
+  },
+  {
+    "question": "What is CodeAura all about?",
     "answer": "CodeAura is a digital solutions agency specializing in web development, AI, automation, and digital marketing. We help clients build smart, scalable, and impactful digital products."
   },
   {
@@ -12,7 +44,39 @@
     "answer": "We offer React and WordPress web development, Python automation, AI chatbots, machine learning, deep learning, data analysis, web scraping, browser agents, workflow automation (n8n), and Meta Ads management."
   },
   {
+    "question": "What can you do for me?",
+    "answer": "We offer React and WordPress web development, Python automation, AI chatbots, machine learning, deep learning, data analysis, web scraping, browser agents, workflow automation (n8n), and Meta Ads management."
+  },
+  {
+    "question": "ap kya kya kaam karte ho?",
+    "answer": "We offer React and WordPress web development, Python automation, AI chatbots, machine learning, deep learning, data analysis, web scraping, browser agents, workflow automation (n8n), and Meta Ads management."
+  },
+  {
+    "question": "which services are available?",
+    "answer": "We offer React and WordPress web development, Python automation, AI chatbots, machine learning, deep learning, data analysis, web scraping, browser agents, workflow automation (n8n), and Meta Ads management."
+  },
+  {
+    "question": "What kind of services do you provide?",
+    "answer": "We offer React and WordPress web development, Python automation, AI chatbots, machine learning, deep learning, data analysis, web scraping, browser agents, workflow automation (n8n), and Meta Ads management."
+  },
+  {
     "question": "What technologies do you use?",
+    "answer": "We work with React.js, Node.js, Express, MongoDB, Python, Django, Flask, HTML5, CSS3, JavaScript, Tailwind CSS, WordPress, n8n, and more."
+  },
+  {
+    "question": "Which technologies are you using?",
+    "answer": "We work with React.js, Node.js, Express, MongoDB, Python, Django, Flask, HTML5, CSS3, JavaScript, Tailwind CSS, WordPress, n8n, and more."
+  },
+  {
+    "question": "ap kon si technologies use karte ho?",
+    "answer": "We work with React.js, Node.js, Express, MongoDB, Python, Django, Flask, HTML5, CSS3, JavaScript, Tailwind CSS, WordPress, n8n, and more."
+  },
+  {
+    "question": "What tech stack do you use?",
+    "answer": "We work with React.js, Node.js, Express, MongoDB, Python, Django, Flask, HTML5, CSS3, JavaScript, Tailwind CSS, WordPress, n8n, and more."
+  },
+  {
+    "question": "Which programming languages do you work with?",
     "answer": "We work with React.js, Node.js, Express, MongoDB, Python, Django, Flask, HTML5, CSS3, JavaScript, Tailwind CSS, WordPress, n8n, and more."
   },
   {
@@ -20,7 +84,39 @@
     "answer": "Our core values are dedication, smart work, on-time delivery, and client satisfaction. We believe in building long-term partnerships and delivering real results."
   },
   {
+    "question": "What do you believe in?",
+    "answer": "Our core values are dedication, smart work, on-time delivery, and client satisfaction. We believe in building long-term partnerships and delivering real results."
+  },
+  {
+    "question": "ap ki core values kya hain?",
+    "answer": "Our core values are dedication, smart work, on-time delivery, and client satisfaction. We believe in building long-term partnerships and delivering real results."
+  },
+  {
+    "question": "What are your main values?",
+    "answer": "Our core values are dedication, smart work, on-time delivery, and client satisfaction. We believe in building long-term partnerships and delivering real results."
+  },
+  {
+    "question": "What is your company philosophy?",
+    "answer": "Our core values are dedication, smart work, on-time delivery, and client satisfaction. We believe in building long-term partnerships and delivering real results."
+  },
+  {
     "question": "What makes CodeAura different from other agencies?",
+    "answer": "Our team combines technical expertise with a passion for innovation. We focus on smart workflows, clear communication, and always go the extra mile to ensure client success."
+  },
+  {
+    "question": "How is CodeAura unique?",
+    "answer": "Our team combines technical expertise with a passion for innovation. We focus on smart workflows, clear communication, and always go the extra mile to ensure client success."
+  },
+  {
+    "question": "ap dusre agencies se kaisay alag ho?",
+    "answer": "Our team combines technical expertise with a passion for innovation. We focus on smart workflows, clear communication, and always go the extra mile to ensure client success."
+  },
+  {
+    "question": "Why should I choose CodeAura?",
+    "answer": "Our team combines technical expertise with a passion for innovation. We focus on smart workflows, clear communication, and always go the extra mile to ensure client success."
+  },
+  {
+    "question": "What is special about CodeAura?",
     "answer": "Our team combines technical expertise with a passion for innovation. We focus on smart workflows, clear communication, and always go the extra mile to ensure client success."
   },
   {
@@ -28,11 +124,58 @@
     "answer": "Our team includes Python developers, React front-end developers, and full stack developers. Key members are Nouman (Python Developer), Zia (React Front-End Developer), and Abdullah (Full Stack Developer)."
   },
   {
+    "question": "Who is in your team?",
+    "answer": "Our team includes Python developers, React front-end developers, and full stack developers. Key members are Nouman (Python Developer), Zia (React Front-End Developer), and Abdullah (Full Stack Developer)."
+  },
+  {
+    "question": "apki team mein kon kon hai?",
+    "answer": "Our team includes Python developers, React front-end developers, and full stack developers. Key members are Nouman (Python Developer), Zia (React Front-End Developer), and Abdullah (Full Stack Developer)."
+  },
+  {
+    "question": "Tell me about your team members.",
+    "answer": "Our team includes Python developers, React front-end developers, and full stack developers. Key members are Nouman (Python Developer), Zia (React Front-End Developer), and Abdullah (Full Stack Developer)."
+  },
+  {
+    "question": "Who are the main people in your team?",
+    "answer": "Our team includes Python developers, React front-end developers, and full stack developers. Key members are Nouman (Python Developer), Zia (React Front-End Developer), and Abdullah (Full Stack Developer)."
+  },
+  {
     "question": "How can I contact you?",
     "answer": "You can contact us via the Contact page, email (codeaura.team@gmail.com), or phone (+92-311-6586081)."
   },
   {
+    "question": "Contact details?",
+    "answer": "You can contact us via the Contact page, email (codeaura.team@gmail.com), or phone (+92-311-6586081)."
+  },
+  {
+    "question": "How do I reach you?",
+    "answer": "You can contact us via the Contact page, email (codeaura.team@gmail.com), or phone (+92-311-6586081)."
+  },
+  {
+    "question": "ap se rabta kese karen?",
+    "answer": "You can contact us via the Contact page, email (codeaura.team@gmail.com), or phone (+92-311-6586081)."
+  },
+  {
+    "question": "can I get your email or phone?",
+    "answer": "You can contact us via the Contact page, email (codeaura.team@gmail.com), or phone (+92-311-6586081)."
+  },{
     "question": "Are you available for freelance work?",
+    "answer": "Yes, we are available for freelance projects. Let's connect and discuss your requirements!"
+  },
+  {
+    "question": "Can I hire you for freelance?",
+    "answer": "Yes, we are available for freelance projects. Let's connect and discuss your requirements!"
+  },
+  {
+    "question": "ap freelance kaam karte ho?",
+    "answer": "Yes, we are available for freelance projects. Let's connect and discuss your requirements!"
+  },
+  {
+    "question": "Do you take freelance projects?",
+    "answer": "Yes, we are available for freelance projects. Let's connect and discuss your requirements!"
+  },
+  {
+    "question": "Are you open for freelance work?",
     "answer": "Yes, we are available for freelance projects. Let's connect and discuss your requirements!"
   },
   {
@@ -40,159 +183,19 @@
     "answer": "Our email address is codeaura.team@gmail.com."
   },
   {
-    "question": "What is your phone number?",
-    "answer": "You can reach us at +92-311-6586081."
+    "question": "Can I get your email?",
+    "answer": "Our email address is codeaura.team@gmail.com."
   },
   {
-    "question": "Where are you based?",
-    "answer": "We are based in Pakistan but work with clients worldwide."
+    "question": "Email address?",
+    "answer": "Our email address is codeaura.team@gmail.com."
   },
   {
-    "question": "How can I start a project with you?",
-    "answer": "Just reach out via our Contact page, email, or phone, and we’ll discuss your project requirements and next steps."
+    "question": "apka email kya hai?",
+    "answer": "Our email address is codeaura.team@gmail.com."
   },
   {
-    "question": "What is your process for working with new clients?",
-    "answer": "We start by understanding your goals, propose tailored solutions, and keep you updated at every step for a smooth, collaborative experience."
-  },
-  {
-    "question": "What is your experience with AI and automation?",
-    "answer": "We have extensive experience building AI chatbots, automation scripts, machine learning and deep learning systems, and smart browser agents."
-  },
-  {
-    "question": "Do you build AI chatbots?",
-    "answer": "Yes, we create intelligent, task-driven chatbots and browser agents that handle real-time queries, automate processes, and collect structured data."
-  },
-  {
-    "question": "Do you offer web scraping services?",
-    "answer": "Yes, we craft efficient web scraping tools and browser agents for data collection and automation."
-  },
-  {
-    "question": "Do you provide Meta Ads (Facebook) services?",
-    "answer": "Yes, we run precision-targeted ad campaigns on Meta platforms, ensuring high ROI and measurable results."
-  },
-  {
-    "question": "Do you develop WordPress websites?",
-    "answer": "Yes, our WordPress team delivers high-performance websites with custom themes, plugins, and secure optimizations."
-  },
-  {
-    "question": "What is your expertise in Python?",
-    "answer": "We build powerful backends, automation scripts, and AI-driven systems using Python, designed for scalability and long-term performance."
-  },
-  {
-    "question": "What are your main skills?",
-    "answer": "Our main skills include React.js, JavaScript, CSS3, HTML, Python, AI/ML, Deep Learning, Web Scraping, n8n, Meta Ads, and WordPress."
-  },
-  {
-    "question": "Can you describe your skills in detail?",
-    "answer": "We have advanced skills in React.js (90%), Python (90%), JavaScript (85%), HTML (85%), CSS3 (80%), AI/ML (75%), Deep Learning (65%), Web Scraping (90%), n8n (60%), Meta Ads (85%), and WordPress (90%)."
-  },
-  {
-    "question": "What kind of projects have you built?",
-    "answer": "We have built note management apps (NoteSphere), news apps (NewsHive), e-commerce sites (Aura by AZ), text analysis tools (TextUtils), hotel analytics platforms (HotelIntel), AI-powered data tools (DataVision, InsightPilot), and more."
-  },
-  {
-    "question": "Can you describe a MERN stack project you built?",
-    "answer": "NoteSphere is a full-stack note management web app with secure authentication, real-time database, and a clean UI, built using the MERN stack."
-  },
-  {
-    "question": "Do you have experience with data analysis platforms?",
-    "answer": "Yes, we have built platforms like HotelIntel and DataVision for analytics, forecasting, and AI-driven insights."
-  },
-  {
-    "question": "Do you offer digital marketing services?",
-    "answer": "Yes, we provide high-impact Facebook (Meta) ad campaigns and SEO strategies to grow your audience and boost conversions."
-  },
-  {
-    "question": "What is your approach to project delivery?",
-    "answer": "We approach every project with passion and responsibility, use smart workflows, and ensure on-time delivery with clear planning and updates."
-  },
-  {
-    "question": "How do you ensure client satisfaction?",
-    "answer": "We build long-term partnerships by delivering real results and continuously improving based on client feedback."
-  },
-  {
-    "question": "What is your design philosophy?",
-    "answer": "We believe in clean, responsive, and user-centric design, ensuring every product is both beautiful and functional."
-  },
-  {
-    "question": "Do you offer both frontend and backend development?",
-    "answer": "Yes, we offer full-stack development including frontend (React, HTML, CSS, JavaScript) and backend (Node.js, Express, Python, Django, Flask)."
-  },
-  {
-    "question": "Can you integrate AI into my website?",
-    "answer": "Absolutely! We can integrate AI chatbots, data analysis, and automation features into your website or app."
-  },
-  {
-    "question": "Do you provide ongoing support and maintenance?",
-    "answer": "Yes, we offer ongoing support, maintenance, and updates for all our projects."
-  },
-  {
-    "question": "Can you help with SEO and digital marketing?",
-    "answer": "Yes, we offer SEO optimization and digital marketing services, including Meta Ads campaigns."
-  },
-  {
-    "question": "Do you work with international clients?",
-    "answer": "Yes, we work with clients from all over the world."
-  },
-  {
-    "question": "How do you handle project deadlines?",
-    "answer": "We manage every milestone through clear planning and timely updates to ensure no deadlines are missed."
-  },
-  {
-    "question": "Can I see your previous work?",
-    "answer": "Yes, you can view our projects on the Projects page of our website or request a portfolio via email."
-  },
-  {
-    "question": "What is your experience with automation tools like n8n?",
-    "answer": "We use n8n to automate workflows, connect APIs, and streamline business processes for our clients."
-  },
-  {
-    "question": "Do you offer custom solutions?",
-    "answer": "Yes, we tailor every solution to your unique business needs, whether it's a website, automation, or AI integration."
-  },
-  {
-    "question": "What is your process for building a new website?",
-    "answer": "We start with requirements gathering, then design, develop, test, and launch your website, keeping you updated at every step."
-  },
-  {
-    "question": "How do you ensure website security?",
-    "answer": "We follow best practices for secure coding, use HTTPS, and implement authentication and authorization as needed."
-  },
-  {
-    "question": "Can you build e-commerce websites?",
-    "answer": "Yes, we can build e-commerce websites with features like product management, shopping cart, secure checkout, and more."
-  },
-  {
-    "question": "Do you offer UI/UX design services?",
-    "answer": "Yes, we design user-friendly, visually appealing interfaces that enhance user experience and engagement."
-  },
-  {
-    "question": "How do you handle feedback and revisions?",
-    "answer": "We welcome client feedback at every stage and offer revisions to ensure the final product meets your expectations."
-  },
-  {
-    "question": "What is your pricing model?",
-    "answer": "Our pricing depends on the project scope and requirements. Contact us for a free quote tailored to your needs."
-  },
-  {
-    "question": "How quickly can you start my project?",
-    "answer": "We can usually start new projects within a few days after the initial consultation and agreement."
-  },
-  {
-    "question": "What payment methods do you accept?",
-    "answer": "We accept bank transfers, PayPal, and other standard payment methods."
-  },
-  {
-    "question": "How do I get a quote for my project?",
-    "answer": "Just contact us with your project details, and we’ll provide a free, no-obligation quote."
-  },
-  {
-    "question": "How can I contact you?",
-    "answer": "You can contact us via our Contact page, by email at codeaura.team@gmail.com, or by phone at +92-311-6586081."
-  },
-  {
-    "question": "What is your email address?",
+    "question": "mujhe apka email chahiye",
     "answer": "Our email address is codeaura.team@gmail.com."
   },
   {
@@ -200,7 +203,816 @@
     "answer": "You can reach us at +92-311-6586081."
   },
   {
+    "question": "Can I get your phone number?",
+    "answer": "You can reach us at +92-311-6586081."
+  },
+  {
+    "question": "Phone number?",
+    "answer": "You can reach us at +92-311-6586081."
+  },
+  {
+    "question": "apka number kya hai?",
+    "answer": "You can reach us at +92-311-6586081."
+  },
+  {
+    "question": "mujhe apka number chahiye",
+    "answer": "You can reach us at +92-311-6586081."
+  },
+  {
+    "question": "Where are you based?",
+    "answer": "We are based in Pakistan but work with clients worldwide."
+  },
+  {
     "question": "Where are you located?",
+    "answer": "We are based in Pakistan but work with clients worldwide."
+  },
+  {
+    "question": "ap kahan se ho?",
+    "answer": "We are based in Pakistan but work with clients worldwide."
+  },
+  {
+    "question": "kis shehar se ho?",
+    "answer": "We are based in Pakistan but work with clients worldwide."
+  },
+  {
+    "question": "What is your location?",
+    "answer": "We are based in Pakistan but work with clients worldwide."
+  },
+  {
+    "question": "How can I start a project with you?",
+    "answer": "Just reach out via our Contact page, email, or phone, and we’ll discuss your project requirements and next steps."
+  },
+  {
+    "question": "How to start a project?",
+    "answer": "Just reach out via our Contact page, email, or phone, and we’ll discuss your project requirements and next steps."
+  },
+  {
+    "question": "ap k sath project kaise shuru karun?",
+    "answer": "Just reach out via our Contact page, email, or phone, and we’ll discuss your project requirements and next steps."
+  },
+  {
+    "question": "I want to start a project with you.",
+    "answer": "Just reach out via our Contact page, email, or phone, and we’ll discuss your project requirements and next steps."
+  },
+  {
+    "question": "How do I begin working with you?",
+    "answer": "Just reach out via our Contact page, email, or phone, and we’ll discuss your project requirements and next steps."
+  },
+  {
+    "question": "What is your process for working with new clients?",
+    "answer": "We start by understanding your goals, propose tailored solutions, and keep you updated at every step for a smooth, collaborative experience."
+  },
+  {
+    "question": "How do you work with new clients?",
+    "answer": "We start by understanding your goals, propose tailored solutions, and keep you updated at every step for a smooth, collaborative experience."
+  },
+  {
+    "question": "naye client k sath kaise kaam karte ho?",
+    "answer": "We start by understanding your goals, propose tailored solutions, and keep you updated at every step for a smooth, collaborative experience."
+  },
+  {
+    "question": "What is your onboarding process?",
+    "answer": "We start by understanding your goals, propose tailored solutions, and keep you updated at every step for a smooth, collaborative experience."
+  },
+  {
+    "question": "How do you handle new projects?",
+    "answer": "We start by understanding your goals, propose tailored solutions, and keep you updated at every step for a smooth, collaborative experience."
+  },
+  {
+    "question": "What is your experience with AI and automation?",
+    "answer": "We have extensive experience building AI chatbots, automation scripts, machine learning and deep learning systems, and smart browser agents."
+  },
+  {
+    "question": "Do you have experience with AI?",
+    "answer": "We have extensive experience building AI chatbots, automation scripts, machine learning and deep learning systems, and smart browser agents."
+  },
+  {
+    "question": "ap AI aur automation me expert ho?",
+    "answer": "We have extensive experience building AI chatbots, automation scripts, machine learning and deep learning systems, and smart browser agents."
+  },
+  {
+    "question": "Tell me about your AI experience.",
+    "answer": "We have extensive experience building AI chatbots, automation scripts, machine learning and deep learning systems, and smart browser agents."
+  },
+  {
+    "question": "What automation projects have you done?",
+    "answer": "We have extensive experience building AI chatbots, automation scripts, machine learning and deep learning systems, and smart browser agents."
+  },
+  {
+    "question": "Do you build AI chatbots?",
+    "answer": "Yes, we create intelligent, task-driven chatbots and browser agents that handle real-time queries, automate processes, and collect structured data."
+  },
+  {
+    "question": "Can you make a chatbot for me?",
+    "answer": "Yes, we create intelligent, task-driven chatbots and browser agents that handle real-time queries, automate processes, and collect structured data."
+  },
+  {
+    "question": "ap chatbot bana sakte ho?",
+    "answer": "Yes, we create intelligent, task-driven chatbots and browser agents that handle real-time queries, automate processes, and collect structured data."
+  },
+  {
+    "question": "Do you develop AI bots?",
+    "answer": "Yes, we create intelligent, task-driven chatbots and browser agents that handle real-time queries, automate processes, and collect structured data."
+  },
+  {
+    "question": "Can you create a custom chatbot?",
+    "answer": "Yes, we create intelligent, task-driven chatbots and browser agents that handle real-time queries, automate processes, and collect structured data."
+  },
+  {
+    "question": "Do you offer web scraping services?",
+    "answer": "Yes, we craft efficient web scraping tools and browser agents for data collection and automation."
+  },
+  {
+    "question": "Can you do web scraping?",
+    "answer": "Yes, we craft efficient web scraping tools and browser agents for data collection and automation."
+  },
+  {
+    "question": "ap web scraping karte ho?",
+    "answer": "Yes, we craft efficient web scraping tools and browser agents for data collection and automation."
+  },
+  {
+    "question": "Do you build scrapers?",
+    "answer": "Yes, we craft efficient web scraping tools and browser agents for data collection and automation."
+  },
+  {
+    "question": "Can you collect data from websites?",
+    "answer": "Yes, we craft efficient web scraping tools and browser agents for data collection and automation."
+  },
+  {
+    "question": "Do you provide Meta Ads (Facebook) services?",
+    "answer": "Yes, we run precision-targeted ad campaigns on Meta platforms, ensuring high ROI and measurable results."
+  },
+  {
+    "question": "Do you run Facebook ads?",
+    "answer": "Yes, we run precision-targeted ad campaigns on Meta platforms, ensuring high ROI and measurable results."
+  },
+  {
+    "question": "ap facebook ads chala sakte ho?",
+    "answer": "Yes, we run precision-targeted ad campaigns on Meta platforms, ensuring high ROI and measurable results."
+  },
+  {
+    "question": "Can you manage Meta Ads?",
+    "answer": "Yes, we run precision-targeted ad campaigns on Meta platforms, ensuring high ROI and measurable results."
+  },
+  {
+    "question": "Do you offer ad campaign services?",
+    "answer": "Yes, we run precision-targeted ad campaigns on Meta platforms, ensuring high ROI and measurable results."
+  },
+  {
+    "question": "Do you develop WordPress websites?",
+    "answer": "Yes, our WordPress team delivers high-performance websites with custom themes, plugins, and secure optimizations."
+  },
+  {
+    "question": "Can you make a WordPress site?",
+    "answer": "Yes, our WordPress team delivers high-performance websites with custom themes, plugins, and secure optimizations."
+  },
+  {
+    "question": "ap wordpress website bana sakte ho?",
+    "answer": "Yes, our WordPress team delivers high-performance websites with custom themes, plugins, and secure optimizations."
+  },
+  {
+    "question": "Do you build WordPress themes?",
+    "answer": "Yes, our WordPress team delivers high-performance websites with custom themes, plugins, and secure optimizations."
+  },
+  {
+    "question": "Can you develop custom plugins?",
+    "answer": "Yes, our WordPress team delivers high-performance websites with custom themes, plugins, and secure optimizations."
+  },
+  {
+    "question": "What is your expertise in Python?",
+    "answer": "We build powerful backends, automation scripts, and AI-driven systems using Python, designed for scalability and long-term performance."
+  },
+  {
+    "question": "Are you good at Python?",
+    "answer": "We build powerful backends, automation scripts, and AI-driven systems using Python, designed for scalability and long-term performance."
+  },
+  {
+    "question": "ap python me expert ho?",
+    "answer": "We build powerful backends, automation scripts, and AI-driven systems using Python, designed for scalability and long-term performance."
+  },
+  {
+    "question": "Do you develop Python scripts?",
+    "answer": "We build powerful backends, automation scripts, and AI-driven systems using Python, designed for scalability and long-term performance."
+  },
+  {
+    "question": "Can you automate with Python?",
+    "answer": "We build powerful backends, automation scripts, and AI-driven systems using Python, designed for scalability and long-term performance."
+  },
+  {
+    "question": "What are your main skills?",
+    "answer": "Our main skills include React.js, JavaScript, CSS3, HTML, Python, AI/ML, Deep Learning, Web Scraping, n8n, Meta Ads, and WordPress."
+  },
+  {
+    "question": "What skills do you have?",
+    "answer": "Our main skills include React.js, JavaScript, CSS3, HTML, Python, AI/ML, Deep Learning, Web Scraping, n8n, Meta Ads, and WordPress."
+  },
+  {
+    "question": "ap ki main skills kya hain?",
+    "answer": "Our main skills include React.js, JavaScript, CSS3, HTML, Python, AI/ML, Deep Learning, Web Scraping, n8n, Meta Ads, and WordPress."
+  },
+  {
+    "question": "Which technologies are you skilled in?",
+    "answer": "Our main skills include React.js, JavaScript, CSS3, HTML, Python, AI/ML, Deep Learning, Web Scraping, n8n, Meta Ads, and WordPress."
+  },
+  {
+    "question": "What are your top skills?",
+    "answer": "Our main skills include React.js, JavaScript, CSS3, HTML, Python, AI/ML, Deep Learning, Web Scraping, n8n, Meta Ads, and WordPress."
+  },
+  {
+    "question": "Can you describe your skills in detail?",
+    "answer": "We have advanced skills in React.js (90%), Python (90%), JavaScript (85%), HTML (85%), CSS3 (80%), AI/ML (75%), Deep Learning (65%), Web Scraping (90%), n8n (60%), Meta Ads (85%), and WordPress (90%)."
+  },
+  {
+    "question": "Tell me your skill levels.",
+    "answer": "We have advanced skills in React.js (90%), Python (90%), JavaScript (85%), HTML (85%), CSS3 (80%), AI/ML (75%), Deep Learning (65%), Web Scraping (90%), n8n (60%), Meta Ads (85%), and WordPress (90%)."
+  },
+  {
+    "question": "ap ki skills ka level kya hai?",
+    "answer": "We have advanced skills in React.js (90%), Python (90%), JavaScript (85%), HTML (85%), CSS3 (80%), AI/ML (75%), Deep Learning (65%), Web Scraping (90%), n8n (60%), Meta Ads (85%), and WordPress (90%)."
+  },
+  {
+    "question": "How experienced are you in these skills?",
+    "answer": "We have advanced skills in React.js (90%), Python (90%), JavaScript (85%), HTML (85%), CSS3 (80%), AI/ML (75%), Deep Learning (65%), Web Scraping (90%), n8n (60%), Meta Ads (85%), and WordPress (90%)."
+  },
+  {
+    "question": "What is your expertise level?",
+    "answer": "We have advanced skills in React.js (90%), Python (90%), JavaScript (85%), HTML (85%), CSS3 (80%), AI/ML (75%), Deep Learning (65%), Web Scraping (90%), n8n (60%), Meta Ads (85%), and WordPress (90%)."
+  },
+  {
+    "question": "What kind of projects have you built?",
+    "answer": "We have built note management apps (NoteSphere), news apps (NewsHive), e-commerce sites (Aura by AZ), text analysis tools (TextUtils), hotel analytics platforms (HotelIntel), AI-powered data tools (DataVision, InsightPilot), and more."
+  },
+  {
+    "question": "What projects have you completed?",
+    "answer": "We have built note management apps (NoteSphere), news apps (NewsHive), e-commerce sites (Aura by AZ), text analysis tools (TextUtils), hotel analytics platforms (HotelIntel), AI-powered data tools (DataVision, InsightPilot), and more."
+  },
+  {
+    "question": "ap ne kis kis tarah ke projects banaye hain?",
+    "answer": "We have built note management apps (NoteSphere), news apps (NewsHive), e-commerce sites (Aura by AZ), text analysis tools (TextUtils), hotel analytics platforms (HotelIntel), AI-powered data tools (DataVision, InsightPilot), and more."
+  },
+  {
+    "question": "Can you share examples of your work?",
+    "answer": "We have built note management apps (NoteSphere), news apps (NewsHive), e-commerce sites (Aura by AZ), text analysis tools (TextUtils), hotel analytics platforms (HotelIntel), AI-powered data tools (DataVision, InsightPilot), and more."
+  },
+  {
+    "question": "What types of apps have you developed?",
+    "answer": "We have built note management apps (NoteSphere), news apps (NewsHive), e-commerce sites (Aura by AZ), text analysis tools (TextUtils), hotel analytics platforms (HotelIntel), AI-powered data tools (DataVision, InsightPilot), and more."
+  },
+  {
+    "question": "Can you describe a MERN stack project you built?",
+    "answer": "NoteSphere is a full-stack note management web app with secure authentication, real-time database, and a clean UI, built using the MERN stack."
+  },
+  {
+    "question": "Tell me about your MERN stack project.",
+    "answer": "NoteSphere is a full-stack note management web app with secure authentication, real-time database, and a clean UI, built using the MERN stack."
+  },
+  {
+    "question": "ap ne MERN stack pe kya banaya hai?",
+    "answer": "NoteSphere is a full-stack note management web app with secure authentication, real-time database, and a clean UI, built using the MERN stack."
+  },
+  {
+    "question": "Give an example of your MERN project.",
+    "answer": "NoteSphere is a full-stack note management web app with secure authentication, real-time database, and a clean UI, built using the MERN stack."
+  },
+  {
+    "question": "What MERN stack apps have you made?",
+    "answer": "NoteSphere is a full-stack note management web app with secure authentication, real-time database, and a clean UI, built using the MERN stack."
+  },
+  {
+    "question": "Do you have experience with data analysis platforms?",
+    "answer": "Yes, we have built platforms like HotelIntel and DataVision for analytics, forecasting, and AI-driven insights."
+  },
+  {
+    "question": "Have you built data analytics tools?",
+    "answer": "Yes, we have built platforms like HotelIntel and DataVision for analytics, forecasting, and AI-driven insights."
+  },
+  {
+    "question": "ap ne data analysis platforms banaye hain?",
+    "answer": "Yes, we have built platforms like HotelIntel and DataVision for analytics, forecasting, and AI-driven insights."
+  },
+  {
+    "question": "Can you do data analytics?",
+    "answer": "Yes, we have built platforms like HotelIntel and DataVision for analytics, forecasting, and AI-driven insights."
+  },
+  {
+    "question": "What is your experience in analytics?",
+    "answer": "Yes, we have built platforms like HotelIntel and DataVision for analytics, forecasting, and AI-driven insights."
+  },
+  {
+    "question": "Do you offer digital marketing services?",
+    "answer": "Yes, we provide high-impact Facebook (Meta) ad campaigns and SEO strategies to grow your audience and boost conversions."
+  },
+  {
+    "question": "Can you do digital marketing?",
+    "answer": "Yes, we provide high-impact Facebook (Meta) ad campaigns and SEO strategies to grow your audience and boost conversions."
+  },
+  {
+    "question": "ap digital marketing karte ho?",
+    "answer": "Yes, we provide high-impact Facebook (Meta) ad campaigns and SEO strategies to grow your audience and boost conversions."
+  },
+  {
+    "question": "Do you run SEO campaigns?",
+    "answer": "Yes, we provide high-impact Facebook (Meta) ad campaigns and SEO strategies to grow your audience and boost conversions."
+  },
+  {
+    "question": "Can you help with Facebook ads?",
+    "answer": "Yes, we provide high-impact Facebook (Meta) ad campaigns and SEO strategies to grow your audience and boost conversions."
+  },
+  {
+    "question": "What is your approach to project delivery?",
+    "answer": "We approach every project with passion and responsibility, use smart workflows, and ensure on-time delivery with clear planning and updates."
+  },
+  {
+    "question": "How do you deliver projects?",
+    "answer": "We approach every project with passion and responsibility, use smart workflows, and ensure on-time delivery with clear planning and updates."
+  },
+  {
+    "question": "ap project delivery kaise karte ho?",
+    "answer": "We approach every project with passion and responsibility, use smart workflows, and ensure on-time delivery with clear planning and updates."
+  },
+  {
+    "question": "What is your project management style?",
+    "answer": "We approach every project with passion and responsibility, use smart workflows, and ensure on-time delivery with clear planning and updates."
+  },
+  {
+    "question": "How do you ensure timely delivery?",
+    "answer": "We approach every project with passion and responsibility, use smart workflows, and ensure on-time delivery with clear planning and updates."
+  },
+  {
+    "question": "How do you ensure client satisfaction?",
+    "answer": "We build long-term partnerships by delivering real results and continuously improving based on client feedback."
+  },
+  {
+    "question": "How do you keep clients happy?",
+    "answer": "We build long-term partnerships by delivering real results and continuously improving based on client feedback."
+  },
+  {
+    "question": "ap client satisfaction kaise ensure karte ho?",
+    "answer": "We build long-term partnerships by delivering real results and continuously improving based on client feedback."
+  },
+  {
+    "question": "What do you do for client satisfaction?",
+    "answer": "We build long-term partnerships by delivering real results and continuously improving based on client feedback."
+  },
+  {
+    "question": "How do you handle client feedback?",
+    "answer": "We build long-term partnerships by delivering real results and continuously improving based on client feedback."
+  },
+  {
+    "question": "What is your design philosophy?",
+    "answer": "We believe in clean, responsive, and user-centric design, ensuring every product is both beautiful and functional."
+  },
+  {
+    "question": "How do you design your products?",
+    "answer": "We believe in clean, responsive, and user-centric design, ensuring every product is both beautiful and functional."
+  },
+  {
+    "question": "apka design approach kya hai?",
+    "answer": "We believe in clean, responsive, and user-centric design, ensuring every product is both beautiful and functional."
+  },
+  {
+    "question": "What is your UI/UX philosophy?",
+    "answer": "We believe in clean, responsive, and user-centric design, ensuring every product is both beautiful and functional."
+  },
+  {
+    "question": "How do you make your designs user-friendly?",
+    "answer": "We believe in clean, responsive, and user-centric design, ensuring every product is both beautiful and functional."
+  },
+  {
+    "question": "Do you offer both frontend and backend development?",
+    "answer": "Yes, we offer full-stack development including frontend (React, HTML, CSS, JavaScript) and backend (Node.js, Express, Python, Django, Flask)."
+  },
+  {
+    "question": "Can you do frontend and backend?",
+    "answer": "Yes, we offer full-stack development including frontend (React, HTML, CSS, JavaScript) and backend (Node.js, Express, Python, Django, Flask)."
+  },
+  {
+    "question": "ap frontend aur backend dono karte ho?",
+    "answer": "Yes, we offer full-stack development including frontend (React, HTML, CSS, JavaScript) and backend (Node.js, Express, Python, Django, Flask)."
+  },
+  {
+    "question": "Do you provide full stack development?",
+    "answer": "Yes, we offer full-stack development including frontend (React, HTML, CSS, JavaScript) and backend (Node.js, Express, Python, Django, Flask)."
+  },
+  {
+    "question": "Can you build both frontend and backend?",
+    "answer": "Yes, we offer full-stack development including frontend (React, HTML, CSS, JavaScript) and backend (Node.js, Express, Python, Django, Flask)."
+  },
+  {
+    "question": "Can you integrate AI into my website?",
+    "answer": "Absolutely! We can integrate AI chatbots, data analysis, and automation features into your website or app."
+  },
+  {
+    "question": "Can you add AI to my site?",
+    "answer": "Absolutely! We can integrate AI chatbots, data analysis, and automation features into your website or app."
+  },
+  {
+    "question": "ap mere website me AI laga sakte ho?",
+    "answer": "Absolutely! We can integrate AI chatbots, data analysis, and automation features into your website or app."
+  },
+  {
+    "question": "Do you provide AI integration?",
+    "answer": "Absolutely! We can integrate AI chatbots, data analysis, and automation features into your website or app."
+  },
+  {
+    "question": "Can you make my website smart with AI?",
+    "answer": "Absolutely! We can integrate AI chatbots, data analysis, and automation features into your website or app."
+  },
+  {
+    "question": "Do you provide ongoing support and maintenance?",
+    "answer": "Yes, we offer ongoing support, maintenance, and updates for all our projects."
+  },
+  {
+    "question": "Will you support my project after delivery?",
+    "answer": "Yes, we offer ongoing support, maintenance, and updates for all our projects."
+  },
+  {
+    "question": "ap support aur maintenance dete ho?",
+    "answer": "Yes, we offer ongoing support, maintenance, and updates for all our projects."
+  },
+  {
+    "question": "Do you offer project maintenance?",
+    "answer": "Yes, we offer ongoing support, maintenance, and updates for all our projects."
+  },
+  {
+    "question": "Can I get updates after launch?",
+    "answer": "Yes, we offer ongoing support, maintenance, and updates for all our projects."
+  },
+  {
+    "question": "Can you help with SEO and digital marketing?",
+    "answer": "Yes, we offer SEO optimization and digital marketing services, including Meta Ads campaigns."
+  },
+  {
+    "question": "Do you provide SEO services?",
+    "answer": "Yes, we offer SEO optimization and digital marketing services, including Meta Ads campaigns."
+  },
+  {
+    "question": "ap SEO aur digital marketing karte ho?",
+    "answer": "Yes, we offer SEO optimization and digital marketing services, including Meta Ads campaigns."
+  },
+  {
+    "question": "Can you run Meta Ads for me?",
+    "answer": "Yes, we offer SEO optimization and digital marketing services, including Meta Ads campaigns."
+  },
+  {
+    "question": "Do you do digital marketing?",
+    "answer": "Yes, we offer SEO optimization and digital marketing services, including Meta Ads campaigns."
+  },
+  {
+    "question": "Do you work with international clients?",
+    "answer": "Yes, we work with clients from all over the world."
+  },
+  {
+    "question": "Do you take projects from outside Pakistan?",
+    "answer": "Yes, we work with clients from all over the world."
+  },
+  {
+    "question": "ap international clients k sath kaam karte ho?",
+    "answer": "Yes, we work with clients from all over the world."
+  },
+  {
+    "question": "Can you work with clients worldwide?",
+    "answer": "Yes, we work with clients from all over the world."
+  },
+  {
+    "question": "Do you accept global projects?",
+    "answer": "Yes, we work with clients from all over the world."
+  },
+  {
+    "question": "How do you handle project deadlines?",
+    "answer": "We manage every milestone through clear planning and timely updates to ensure no deadlines are missed."
+  },
+  {
+    "question": "How do you manage deadlines?",
+    "answer": "We manage every milestone through clear planning and timely updates to ensure no deadlines are missed."
+  },
+  {
+    "question": "ap deadlines kaise handle karte ho?",
+    "answer": "We manage every milestone through clear planning and timely updates to ensure no deadlines are missed."
+  },
+  {
+    "question": "What is your process for deadlines?",
+    "answer": "We manage every milestone through clear planning and timely updates to ensure no deadlines are missed."
+  },
+  {
+    "question": "How do you ensure timely project delivery?",
+    "answer": "We manage every milestone through clear planning and timely updates to ensure no deadlines are missed."
+  },
+  {
+    "question": "Can I see your previous work?",
+    "answer": "Yes, you can view our projects on the Projects page of our website or request a portfolio via email."
+  },
+  {
+    "question": "Do you have a portfolio?",
+    "answer": "Yes, you can view our projects on the Projects page of our website or request a portfolio via email."
+  },
+  {
+    "question": "ap apna kaam dikha sakte ho?",
+    "answer": "Yes, you can view our projects on the Projects page of our website or request a portfolio via email."
+  },
+  {
+    "question": "Where can I see your projects?",
+    "answer": "Yes, you can view our projects on the Projects page of our website or request a portfolio via email."
+  },
+  {
+    "question": "Can you share your previous projects?",
+    "answer": "Yes, you can view our projects on the Projects page of our website or request a portfolio via email."
+  },
+  {
+    "question": "What is your experience with automation tools like n8n?",
+    "answer": "We use n8n to automate workflows, connect APIs, and streamline business processes for our clients."
+  },
+  {
+    "question": "Do you use n8n for automation?",
+    "answer": "We use n8n to automate workflows, connect APIs, and streamline business processes for our clients."
+  },
+  {
+    "question": "ap n8n automation tool use karte ho?",
+    "answer": "We use n8n to automate workflows, connect APIs, and streamline business processes for our clients."
+  },
+  {
+    "question": "How do you automate workflows?",
+    "answer": "We use n8n to automate workflows, connect APIs, and streamline business processes for our clients."
+  },
+  {
+    "question": "Can you connect APIs with n8n?",
+    "answer": "We use n8n to automate workflows, connect APIs, and streamline business processes for our clients."
+  },
+  {
+    "question": "Do you offer custom solutions?",
+    "answer": "Yes, we tailor every solution to your unique business needs, whether it's a website, automation, or AI integration."
+  },
+  {
+    "question": "Can you make a custom solution for me?",
+    "answer": "Yes, we tailor every solution to your unique business needs, whether it's a website, automation, or AI integration."
+  },
+  {
+    "question": "ap custom solution bana sakte ho?",
+    "answer": "Yes, we tailor every solution to your unique business needs, whether it's a website, automation, or AI integration."
+  },
+  {
+    "question": "Do you provide tailored services?",
+    "answer": "Yes, we tailor every solution to your unique business needs, whether it's a website, automation, or AI integration."
+  },
+  {
+    "question": "Can you build something unique for my business?",
+    "answer": "Yes, we tailor every solution to your unique business needs, whether it's a website, automation, or AI integration."
+  },{
+    "question": "What is your process for building a new website?",
+    "answer": "We start with requirements gathering, then design, develop, test, and launch your website, keeping you updated at every step."
+  },
+  {
+    "question": "How do you build a new website?",
+    "answer": "We start with requirements gathering, then design, develop, test, and launch your website, keeping you updated at every step."
+  },
+  {
+    "question": "ap website kaise banate ho?",
+    "answer": "We start with requirements gathering, then design, develop, test, and launch your website, keeping you updated at every step."
+  },
+  {
+    "question": "What steps do you follow for website development?",
+    "answer": "We start with requirements gathering, then design, develop, test, and launch your website, keeping you updated at every step."
+  },
+  {
+    "question": "How do you manage website projects?",
+    "answer": "We start with requirements gathering, then design, develop, test, and launch your website, keeping you updated at every step."
+  },
+  {
+    "question": "How do you ensure website security?",
+    "answer": "We follow best practices for secure coding, use HTTPS, and implement authentication and authorization as needed."
+  },
+  {
+    "question": "How do you keep websites secure?",
+    "answer": "We follow best practices for secure coding, use HTTPS, and implement authentication and authorization as needed."
+  },
+  {
+    "question": "ap website security kaise ensure karte ho?",
+    "answer": "We follow best practices for secure coding, use HTTPS, and implement authentication and authorization as needed."
+  },
+  {
+    "question": "What security measures do you use?",
+    "answer": "We follow best practices for secure coding, use HTTPS, and implement authentication and authorization as needed."
+  },
+  {
+    "question": "How do you protect client data?",
+    "answer": "We follow best practices for secure coding, use HTTPS, and implement authentication and authorization as needed."
+  },
+  {
+    "question": "Can you build e-commerce websites?",
+    "answer": "Yes, we can build e-commerce websites with features like product management, shopping cart, secure checkout, and more."
+  },
+  {
+    "question": "Do you make online stores?",
+    "answer": "Yes, we can build e-commerce websites with features like product management, shopping cart, secure checkout, and more."
+  },
+  {
+    "question": "ap e-commerce website bana sakte ho?",
+    "answer": "Yes, we can build e-commerce websites with features like product management, shopping cart, secure checkout, and more."
+  },
+  {
+    "question": "Can you add shopping cart to my site?",
+    "answer": "Yes, we can build e-commerce websites with features like product management, shopping cart, secure checkout, and more."
+  },
+  {
+    "question": "Do you provide secure checkout?",
+    "answer": "Yes, we can build e-commerce websites with features like product management, shopping cart, secure checkout, and more."
+  },
+  {
+    "question": "Do you offer UI/UX design services?",
+    "answer": "Yes, we design user-friendly, visually appealing interfaces that enhance user experience and engagement."
+  },
+  {
+    "question": "Can you design UI/UX for my project?",
+    "answer": "Yes, we design user-friendly, visually appealing interfaces that enhance user experience and engagement."
+  },
+  {
+    "question": "ap UI UX design karte ho?",
+    "answer": "Yes, we design user-friendly, visually appealing interfaces that enhance user experience and engagement."
+  },
+  {
+    "question": "Do you make user interfaces?",
+    "answer": "Yes, we design user-friendly, visually appealing interfaces that enhance user experience and engagement."
+  },
+  {
+    "question": "Can you improve my website's design?",
+    "answer": "Yes, we design user-friendly, visually appealing interfaces that enhance user experience and engagement."
+  },
+  {
+    "question": "How do you handle feedback and revisions?",
+    "answer": "We welcome client feedback at every stage and offer revisions to ensure the final product meets your expectations."
+  },
+  {
+    "question": "Do you offer revisions?",
+    "answer": "We welcome client feedback at every stage and offer revisions to ensure the final product meets your expectations."
+  },
+  {
+    "question": "ap feedback aur revisions dete ho?",
+    "answer": "We welcome client feedback at every stage and offer revisions to ensure the final product meets your expectations."
+  },
+  {
+    "question": "How do you manage client feedback?",
+    "answer": "We welcome client feedback at every stage and offer revisions to ensure the final product meets your expectations."
+  },
+  {
+    "question": "Can I request changes during the project?",
+    "answer": "We welcome client feedback at every stage and offer revisions to ensure the final product meets your expectations."
+  },
+  {
+    "question": "What is your pricing model?",
+    "answer": "Our pricing depends on the project scope and requirements. Contact us for a free quote tailored to your needs."
+  },
+  {
+    "question": "How do you charge for projects?",
+    "answer": "Our pricing depends on the project scope and requirements. Contact us for a free quote tailored to your needs."
+  },
+  {
+    "question": "apka pricing model kya hai?",
+    "answer": "Our pricing depends on the project scope and requirements. Contact us for a free quote tailored to your needs."
+  },
+  {
+    "question": "How much do you charge?",
+    "answer": "Our pricing depends on the project scope and requirements. Contact us for a free quote tailored to your needs."
+  },
+  {
+    "question": "Can I get a price estimate?",
+    "answer": "Our pricing depends on the project scope and requirements. Contact us for a free quote tailored to your needs."
+  },{
+    "question": "How quickly can you start my project?",
+    "answer": "We can usually start new projects within a few days after the initial consultation and agreement."
+  },
+  {
+    "question": "When can you start my work?",
+    "answer": "We can usually start new projects within a few days after the initial consultation and agreement."
+  },
+  {
+    "question": "ap project kitni jaldi shuru kar sakte ho?",
+    "answer": "We can usually start new projects within a few days after the initial consultation and agreement."
+  },
+  {
+    "question": "How soon can you begin?",
+    "answer": "We can usually start new projects within a few days after the initial consultation and agreement."
+  },
+  {
+    "question": "What is your project start time?",
+    "answer": "We can usually start new projects within a few days after the initial consultation and agreement."
+  },
+  {
+    "question": "What payment methods do you accept?",
+    "answer": "We accept bank transfers, PayPal, and other standard payment methods."
+  },
+  {
+    "question": "How can I pay you?",
+    "answer": "We accept bank transfers, PayPal, and other standard payment methods."
+  },
+  {
+    "question": "ap kaun se payment methods accept karte ho?",
+    "answer": "We accept bank transfers, PayPal, and other standard payment methods."
+  },
+  {
+    "question": "Can I pay by PayPal?",
+    "answer": "We accept bank transfers, PayPal, and other standard payment methods."
+  },
+  {
+    "question": "Do you take bank transfer?",
+    "answer": "We accept bank transfers, PayPal, and other standard payment methods."
+  },
+  {
+    "question": "How do I get a quote for my project?",
+    "answer": "Just contact us with your project details, and we’ll provide a free, no-obligation quote."
+  },
+  {
+    "question": "Can I get a project quote?",
+    "answer": "Just contact us with your project details, and we’ll provide a free, no-obligation quote."
+  },
+  {
+    "question": "ap se quote kaise hasil karun?",
+    "answer": "Just contact us with your project details, and we’ll provide a free, no-obligation quote."
+  },
+  {
+    "question": "How to request a quote?",
+    "answer": "Just contact us with your project details, and we’ll provide a free, no-obligation quote."
+  },
+  {
+    "question": "Can you give me a price quote?",
+    "answer": "Just contact us with your project details, and we’ll provide a free, no-obligation quote."
+  },{
+    "question": "How can I contact you?",
+    "answer": "You can contact us via our Contact page, by email at codeaura.team@gmail.com, or by phone at +92-311-6586081."
+  },
+  {
+    "question": "Contact info?",
+    "answer": "You can contact us via our Contact page, by email at codeaura.team@gmail.com, or by phone at +92-311-6586081."
+  },
+  {
+    "question": "ap se rabta kaise karun?",
+    "answer": "You can contact us via our Contact page, by email at codeaura.team@gmail.com, or by phone at +92-311-6586081."
+  },
+  {
+    "question": "How do I reach you?",
+    "answer": "You can contact us via our Contact page, by email at codeaura.team@gmail.com, or by phone at +92-311-6586081."
+  },
+  {
+    "question": "Can I get your contact details?",
+    "answer": "You can contact us via our Contact page, by email at codeaura.team@gmail.com, or by phone at +92-311-6586081."
+  },
+  {
+    "question": "What is your email address?",
+    "answer": "Our email address is codeaura.team@gmail.com."
+  },
+  {
+    "question": "Can I get your email?",
+    "answer": "Our email address is codeaura.team@gmail.com."
+  },
+  {
+    "question": "Email address?",
+    "answer": "Our email address is codeaura.team@gmail.com."
+  },
+  {
+    "question": "apka email kya hai?",
+    "answer": "Our email address is codeaura.team@gmail.com."
+  },
+  {
+    "question": "mujhe apka email chahiye",
+    "answer": "Our email address is codeaura.team@gmail.com."
+  },
+  {
+    "question": "What is your phone number?",
+    "answer": "You can reach us at +92-311-6586081."
+  },
+  {
+    "question": "Can I get your phone number?",
+    "answer": "You can reach us at +92-311-6586081."
+  },
+  {
+    "question": "Phone number?",
+    "answer": "You can reach us at +92-311-6586081."
+  },
+  {
+    "question": "apka number kya hai?",
+    "answer": "You can reach us at +92-311-6586081."
+  },
+  {
+    "question": "mujhe apka number chahiye",
+    "answer": "You can reach us at +92-311-6586081."
+  },
+  {
+    "question": "Where are you located?",
+    "answer": "We are based in Pakistan but work with clients worldwide."
+  },
+  {
+    "question": "Where are you based?",
+    "answer": "We are based in Pakistan but work with clients worldwide."
+  },
+  {
+    "question": "ap kahan se ho?",
+    "answer": "We are based in Pakistan but work with clients worldwide."
+  },
+  {
+    "question": "kis shehar se ho?",
+    "answer": "We are based in Pakistan but work with clients worldwide."
+  },
+  {
+    "question": "What is your location?",
     "answer": "We are based in Pakistan but work with clients worldwide."
   },
   {
@@ -208,7 +1020,39 @@
     "answer": "You can follow us on Facebook at https://www.facebook.com/profile.php?id=61576285330884 and on Instagram at https://www.instagram.com/codeaura.team/"
   },
   {
+    "question": "Can I follow you on social media?",
+    "answer": "You can follow us on Facebook at https://www.facebook.com/profile.php?id=61576285330884 and on Instagram at https://www.instagram.com/codeaura.team/"
+  },
+  {
+    "question": "apka social media kya hai?",
+    "answer": "You can follow us on Facebook at https://www.facebook.com/profile.php?id=61576285330884 and on Instagram at https://www.instagram.com/codeaura.team/"
+  },
+  {
+    "question": "How do I find you on Facebook or Instagram?",
+    "answer": "You can follow us on Facebook at https://www.facebook.com/profile.php?id=61576285330884 and on Instagram at https://www.instagram.com/codeaura.team/"
+  },
+  {
+    "question": "What are your Facebook and Instagram links?",
+    "answer": "You can follow us on Facebook at https://www.facebook.com/profile.php?id=61576285330884 and on Instagram at https://www.instagram.com/codeaura.team/"
+  },
+  {
     "question": "What are your social media links?",
+    "answer": "Facebook: https://www.facebook.com/profile.php?id=61576285330884 | Instagram: https://www.instagram.com/codeaura.team/"
+  },
+  {
+    "question": "Share your social media profiles.",
+    "answer": "Facebook: https://www.facebook.com/profile.php?id=61576285330884 | Instagram: https://www.instagram.com/codeaura.team/"
+  },
+  {
+    "question": "apke social media links kya hain?",
+    "answer": "Facebook: https://www.facebook.com/profile.php?id=61576285330884 | Instagram: https://www.instagram.com/codeaura.team/"
+  },
+  {
+    "question": "How can I follow you on social media?",
+    "answer": "Facebook: https://www.facebook.com/profile.php?id=61576285330884 | Instagram: https://www.instagram.com/codeaura.team/"
+  },
+  {
+    "question": "Can I get your Facebook and Instagram?",
     "answer": "Facebook: https://www.facebook.com/profile.php?id=61576285330884 | Instagram: https://www.instagram.com/codeaura.team/"
   },
   {
@@ -216,7 +1060,48 @@
     "answer": "Yes, our Facebook page is https://www.facebook.com/profile.php?id=61576285330884"
   },
   {
+    "question": "What is your Facebook page?",
+    "answer": "Yes, our Facebook page is https://www.facebook.com/profile.php?id=61576285330884"
+  },
+  {
+    "question": "apka Facebook page kya hai?",
+    "answer": "Yes, our Facebook page is https://www.facebook.com/profile.php?id=61576285330884"
+  },
+  {
+    "question": "Can I follow you on Facebook?",
+    "answer": "Yes, our Facebook page is https://www.facebook.com/profile.php?id=61576285330884"
+  },
+  {
+    "question": "Facebook link?",
+    "answer": "Yes, our Facebook page is https://www.facebook.com/profile.php?id=61576285330884"
+  },
+  {
     "question": "Do you have an Instagram account?",
     "answer": "Yes, our Instagram is https://www.instagram.com/codeaura.team/"
+  },
+  {
+    "question": "What is your Instagram?",
+    "answer": "Yes, our Instagram is https://www.instagram.com/codeaura.team/"
+  },
+  {
+    "question": "Instagram link?",
+    "answer": "Yes, our Instagram is https://www.instagram.com/codeaura.team/"
+  },
+  {
+    "question": "apka instagram kya hai?",
+    "answer": "Yes, our Instagram is https://www.instagram.com/codeaura.team/"
+  },
+  {
+    "question": "ap mujhy apna instagram account de sakty ho kya?",
+    "answer": "Yes, our Instagram is https://www.instagram.com/codeaura.team/"
+  },
+  {
+    "question": "can you give me your instagram?",
+    "answer": "Yes, our Instagram is https://www.instagram.com/codeaura.team/"
+  },
+  {
+    "question": "how can I follow you on instagram?",
+    "answer": "Yes, our Instagram is https://www.instagram.com/codeaura.team/"
   }
+
 ]
