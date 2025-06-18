@@ -13,6 +13,7 @@ import Skills from './components/Skills';
 import Footer from './components/Footer';
 import Alert from './components/Alert';
 import { useState } from 'react';
+import Chatbot from './components/Chatbot';
 
 function App() {
   const [alert, setAlert] = useState(null)
@@ -38,6 +39,7 @@ function App() {
                   <Route  path="/project" element={<Project />} />
                   <Route  path="/contect" element={<Contact showAlert={showAlert}/>} />
                 </Routes>
+                <Chatbot/>
                 <Footer />
               </div>
             </Router>
